@@ -10,6 +10,10 @@ using namespace std;
 LinkedList::LinkedList() {
     head = nullptr; // empty list
 }
+Node::Node(const Data &d, Node *n) {
+
+
+}
 
 // copy constructor
 LinkedList::LinkedList(const LinkedList& list) {
@@ -61,3 +65,5 @@ LinkedList::~LinkedList() {
         pop_head();
     }
 }
+
+
