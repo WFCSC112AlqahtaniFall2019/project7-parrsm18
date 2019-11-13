@@ -10,10 +10,6 @@ using namespace std;
 LinkedList::LinkedList() {
     head = nullptr; // empty list
 }
-Node::Node(const Data &d, Node *n) {
-
-
-}
 
 // copy constructor
 LinkedList::LinkedList(const LinkedList& list) {
@@ -21,11 +17,11 @@ LinkedList::LinkedList(const LinkedList& list) {
     if(list.head) {
         Node *curr, *listcurr;
         // copy head node data
-        head = curr = new Node(list.head->item);
+        head = curr = new Node(list.head->data);
         listcurr = list.head->next;
         // loop over rest of nodes, copying data
         while (listcurr != nullptr) {
-            curr = curr->next = new Node(listcurr->item);
+            curr = curr->next = new Node(listcurr->data);
             listcurr = listcurr->next;
         }
     } else {
@@ -44,7 +40,8 @@ void LinkedList::print(ostream &os) {
     // start at the head of the list
     Node *curr = head;
     while (curr != nullptr) {
-        os << curr->item << endl; // use overloaded output operator to print
+        Data* temp = &curr->data;
+        os << temp << endl; // use overloaded output operator to print
         curr = curr->next; // go to next node in list
     }
 }
@@ -65,5 +62,6 @@ LinkedList::~LinkedList() {
         pop_head();
     }
 }
+
 
 

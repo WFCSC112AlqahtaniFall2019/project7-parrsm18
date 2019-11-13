@@ -6,15 +6,17 @@
 
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
-#include "Data.h"
-//You need to create this
+#include "Data.h"//You need to create this
+#include <ostream>
 
 class Node {
 public:
     Data data; // object at node
     Node *next; // pointer to next node
 
-    Node(const Data &d, Node *n);
+    Node(Data insert){
+        data = insert;
+    }
 };
 
 class LinkedList {

@@ -9,7 +9,7 @@
 class Stack: public LinkedList{
 public:
     Stack();
-    void push_head(Data &insert);
+    void push_head(const Data &insert);
     bool pop_head();
 };
 #endif //PROJECT7_STACK_H

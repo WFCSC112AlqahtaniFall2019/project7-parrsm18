@@ -17,10 +17,32 @@ const ostream& Data::operator<<(ostream &os) {
 }
 
 bool Data::operator<(Data &rhs) {
-    return this->nameP < rhs.nameP;
+    if (this->yearP < rhs.yearP){
+        return this->yearP < rhs.yearP;
+    }
+    else if(this->salesP < rhs.salesP){
+        return this->salesP < rhs.salesP;
+    }
+    else if(this->rankP < rhs.rankP){
+        return this->rankP < rhs.rankP;
+    }
+    else {
+        return this->nameP < rhs.nameP;
+    }
 }
 
 bool Data::operator>(Data &rhs) {
-    return this->nameP > rhs.nameP;
+    if (this->yearP > rhs.yearP){
+        return this->yearP > rhs.yearP;
+    }
+    else if(this->salesP > rhs.salesP){
+        return this->salesP > rhs.salesP;
+    }
+    else if(this->rankP > rhs.rankP){
+        return this->rankP > rhs.rankP;
+    }
+    else{
+        return this->nameP > rhs.nameP;
+    }
 }
 

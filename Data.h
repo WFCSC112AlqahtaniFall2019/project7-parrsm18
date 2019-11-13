@@ -6,10 +6,10 @@
 #define PROJECT7_DATA_H
 
 #include <iostream>
-#include "LinkedList.h"
 using namespace std;
 class Data{
 public:
+    Data() {}
     Data(int rank, string name, int sales, int year);
     const ostream& operator<<(ostream& os);
     bool operator<(Data& rhs);
