@@ -3,35 +3,31 @@
 //
 #include "Queue.h"
 Queue::Queue() {
-    head->next = tail;
-    tail->next = nullptr;
+    head = nullptr;
+    tail = nullptr;
 }
 
 void Queue::enqueue_tail(const Data &insert) {
-    if (head->next == tail){
-        Node* newNode = new Node(insert);
-        newNode->next = tail;
-        head->next = newNode;
+    Node* newNode = new Node(insert);
+    if (head == nullptr){
+        head= newNode ;
+        tail = newNode;
     }
     else{
-        Node* iterator = head->next;
-        Node* newNode = new Node(insert);
-        while(iterator->next != tail){
-            iterator = iterator->next;
-        }
-        newNode->next = tail;
-        iterator->next = newNode;
+       tail->next=newNode;
+       tail=newNode;
     }
 }
 
 bool Queue::dequeue_head() {
+
     if(head->next == tail){
         return false;
     }
     else{
-        Node* temp = head;
+        Node* toDelete = head;
         head = head->next;
-        delete(temp);
+        delete(toDelete);
         return true;
     }
 }

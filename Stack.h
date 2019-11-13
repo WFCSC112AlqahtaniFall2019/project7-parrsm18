@@ -11,5 +11,6 @@ public:
     Stack();
     void push_head(const Data &insert);
     bool pop_head();
+    //void print(ostream &os);
 };
 #endif //PROJECT7_STACK_H

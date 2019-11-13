@@ -13,7 +13,10 @@ class Node {
 public:
     Data data; // object at node
     Node *next; // pointer to next node
-
+    Node(){
+        next= nullptr;
+    }
+  //  ~Node(){if(next!=nullptr)delete next;}
     Node(Data insert){
         data = insert;
     }
@@ -27,8 +30,8 @@ public:
     LinkedList(const LinkedList& list);
     const LinkedList& operator=(LinkedList rhs);
     void print(ostream &os);
-    void pop_head();
-    ~LinkedList();
+    void pop();
+   // ~LinkedList();
 };
 
 #endif //LINKEDLIST_H

@@ -4,45 +4,23 @@
 #include "Data.h"
 #include <iostream>
 
-Data::Data(int rank, string name, int sales, int year) {
+Data::Data(double rank, string name, double sales, int year) {
     rankP = rank;
     nameP = name;
     salesP = sales;
     yearP = year;
 }
 
-const ostream& Data::operator<<(ostream &os) {
-    os << nameP << ", " << yearP << " Rank: " << rankP << " Sales: " << salesP;
+const ostream& operator<<( ostream &os, Data d) {
+    os << d.nameP << ", Year: " << d.yearP << " Rank: " << d.rankP << " Sales: " << d.salesP << endl;
     return os;
 }
 
 bool Data::operator<(Data &rhs) {
-    if (this->yearP < rhs.yearP){
-        return this->yearP < rhs.yearP;
-    }
-    else if(this->salesP < rhs.salesP){
-        return this->salesP < rhs.salesP;
-    }
-    else if(this->rankP < rhs.rankP){
-        return this->rankP < rhs.rankP;
-    }
-    else {
-        return this->nameP < rhs.nameP;
-    }
+    return this->yearP < rhs.yearP;
 }
 
 bool Data::operator>(Data &rhs) {
-    if (this->yearP > rhs.yearP){
-        return this->yearP > rhs.yearP;
-    }
-    else if(this->salesP > rhs.salesP){
-        return this->salesP > rhs.salesP;
-    }
-    else if(this->rankP > rhs.rankP){
-        return this->rankP > rhs.rankP;
-    }
-    else{
-        return this->nameP > rhs.nameP;
-    }
+    return this->yearP > rhs.yearP;
 }
 

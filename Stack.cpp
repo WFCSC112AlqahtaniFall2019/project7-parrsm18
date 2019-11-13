@@ -5,28 +5,24 @@
 #include "Stack.h"
 
 Stack::Stack(){
+    head= nullptr;
 }
 void Stack::push_head(const Data &insert) {
-    if (head == nullptr || head->next == nullptr){
-        Node* newNode = new Node(insert);
-        head->next = newNode;
-        newNode->next = nullptr;
-    }
-    else{
-        Node* newNode = new Node(insert);
-        newNode->next = head->next;
-        head->next = newNode;
-    }
+    Node* newNode = new Node(insert);
+    newNode->next = head;
+    head = newNode;
 }
 
 bool Stack::pop_head() {
+
     if (head == nullptr){
         return false;
     }
     else {
-        Node* temp = head;
+        Node* toDelete = head;
         head = head->next;
-        delete(temp);
+        delete(toDelete);
         return true;
     }
 }
+

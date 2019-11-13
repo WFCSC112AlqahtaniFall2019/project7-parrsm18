@@ -40,12 +40,14 @@ void LinkedList::print(ostream &os) {
     // start at the head of the list
     Node *curr = head;
     while (curr != nullptr) {
-        Data* temp = &curr->data;
-        os << temp << endl; // use overloaded output operator to print
+        Data temp = curr->data;
+       // cout<<temp;
+        os << temp ;
+
         curr = curr->next; // go to next node in list
     }
 }
-void LinkedList::pop_head() {
+void LinkedList::pop() {
     // if not an empty list
     if (head != nullptr) {
         // save location of where head points
@@ -56,12 +58,12 @@ void LinkedList::pop_head() {
         delete curr;
     }
 }
-LinkedList::~LinkedList() {
+/*LinkedList::~LinkedList() {
     // keep popping until empty list
     while (head != nullptr) {
-        pop_head();
+        pop();
     }
-}
+}*/
 
 
 

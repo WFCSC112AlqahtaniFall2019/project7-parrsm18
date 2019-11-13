@@ -10,14 +10,14 @@ using namespace std;
 class Data{
 public:
     Data() {}
-    Data(int rank, string name, int sales, int year);
-    const ostream& operator<<(ostream& os);
+    Data(double rank, string name, double sales, int year);
+   friend  const ostream& operator<<( ostream& os, Data d);
     bool operator<(Data& rhs);
     bool operator>(Data& rhs);
 private:
-    int rankP;
+    double rankP;
     string nameP;
-    int salesP;
+    double salesP;
     int yearP;
 };
 
