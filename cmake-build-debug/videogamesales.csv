@@ -178,7 +178,7 @@ Rank,Name,Year,Global_Sales
 177,Assassin's Creed II,2009,5.27
 178,Professor Layton and the Curious Village,2007,5.26
 179,Tomb Raider II,1997,5.24
-180,Madden NFL 2004,00,5.23
+180,Madden NFL 2004,2004,5.23
 181,Dragon Quest VIII: Journey of the Cursed King,2004,5.21
 182,Diablo III,2012,5.2
 183,Super Mario Bros. 3,2003,5.2
@@ -376,7 +376,7 @@ Rank,Name,Year,Global_Sales
 375,Kung Fu,1985,3.5
 376,Batman: Arkham Asylum,2009,3.5
 377,Clubhouse Games,2006,3.5
-378,FIFA Soccer 2004,00,3.49
+378,FIFA Soccer 2004 ,2007,3.49
 379,Star Wars Battlefront (2015),2015,3.49
 380,Battlefield: Bad Company 2,2010,3.48
 381,Guitar Hero: On Tour,2008,3.48
@@ -430,7 +430,7 @@ Rank,Name,Year,Global_Sales
 429,Enter the Matrix,2003,3.18
 430,Super Mario Maker,2015,3.18
 431,Fallout: New Vegas,2010,3.17
-432,LEGO Batman: The Videogame,00,3.17
+432,LEGO Batman: The Videogame ,2007,3.17
 433,Rhythm Heaven,2008,3.17
 434,Ace Combat 04: Shattered Skies,2001,3.17
 435,Club Penguin: Elite Penguin Force,2008,3.16
@@ -469,7 +469,7 @@ Rank,Name,Year,Global_Sales
 468,Gears of War: Ultimate Edition,2015,3
 469,NBA 2K13,2012,3
 470,Dragon Ball Z: Budokai Tenkaichi 3,2007,3
-471,wwe Smackdown vs. Raw 2006,00,3
+471,wwe Smackdown vs. Raw 2006 ,2007,3
 472,Middle-Earth: Shadow of Mordor,2014,2.99
 473,Star Fox,1993,2.99
 474,The Sims: Livin Large,2000,2.99
@@ -606,7 +606,7 @@ Rank,Name,Year,Global_Sales
 605,Pokémon Colosseum,2003,2.54
 606,Deca Sports,2008,2.54
 607,Madden NFL 09,2008,2.54
-608,Space Invaders,00,2.53
+608,Space Invaders ,2007,2.53
 609,Crazy Taxi,2001,2.52
 610,Perfect Dark,2000,2.52
 611,Game Party,2007,2.52
@@ -623,7 +623,7 @@ Rank,Name,Year,Global_Sales
 622,Pure,2008,2.48
 623,Tomb Raider: The Last Revelation,1998,2.48
 624,NBA 2K13,2012,2.48
-625,Rock Band,00,2.48
+625,Rock Band ,2007,2.48
 626,NBA 2K14,2013,2.47
 627,Mario Party 4,2002,2.47
 628,uDraw Studio,2010,2.46
@@ -648,10 +648,10 @@ Rank,Name,Year,Global_Sales
 647,Tetris Plus,1996,2.4
 648,Pro Wrestling,1987,2.4
 649,Theme Hospital,1997,2.4
-650,Frogger's Adventures: Temple of the Frog,00,2.39
+650,Frogger's Adventures: Temple of the Frog ,2007,2.39
 651,Need for Speed (2015),2015,2.39
 652,Zumba Fitness,2010,2.39
-653,LEGO Indiana Jones: The Original Adventures,00,2.39
+653,LEGO Indiana Jones: The Original Adventures ,2007,2.39
 655,Monopoly,1994,2.39
 656,Batman: Arkham Origins,2013,2.39
 657,Dead Island,2011,2.39
@@ -710,7 +710,7 @@ Rank,Name,Year,Global_Sales
 710,Kirby: Nightmare in Dream Land,2002,2.27
 711,Wario Land 4,2001,2.26
 712,Guitar Hero III: Legends of Rock,2007,2.26
-713,Call of Duty 3,00,2.26
+713,Call of Duty 3 ,2007,2.26
 714,Resident Evil 4,2007,2.26
 715,Minecraft,2014,2.25
 716,Onimusha 2: Samurai's Destiny,2002,2.25
@@ -781,7 +781,7 @@ Rank,Name,Year,Global_Sales
 781,PES 2009: Pro Evolution Soccer,2008,2.11
 782,Need for Speed: Hot Pursuit 2,2002,2.11
 783,Mario Sports Mix,2010,2.11
-784,Rock Band,00,2.11
+784,Rock Band ,2007,2.11
 785,Dynasty Warriors 4,2003,2.11
 786,Mortal Kombat,2011,2.11
 787,Parasite Eve,1998,2.1
@@ -1125,14 +1125,14 @@ Rank,Name,Year,Global_Sales
 1125,ESPN NFL 2K5,2004,1.63
 1126,Viva Pinata,2006,1.63
 1127,Pikmin,2001,1.63
-1128,Call of Duty: Black Ops,00,1.63
+1128,Call of Duty: Black Ops ,2007,1.63
 1129,Sonic Generations,2011,1.63
 1130,Tiger Woods PGA Tour 2004,2003,1.63
 1131,Ape Escape,1999,1.63
 1132,NBA 2K15,2014,1.63
 1133,NCAA Football 2005,2004,1.62
 1134,Just Cause 2,2010,1.62
-1135,Rock Band,00,1.62
+1135,Rock Band ,2007,1.62
 1136,Tony Hawk's American Wasteland (Old all region sales),2005,1.62
 1137,Rage,2011,1.62
 1138,Mario Hoops 3 on 3,2006,1.62
@@ -1302,7 +1302,7 @@ Rank,Name,Year,Global_Sales
 1302,Battlefield: Bad Company,2008,1.46
 1303,Midway Arcade Treasures,2003,1.46
 1304,Wall-E,2008,1.46
-1305,Triple Play 99,00,1.46
+1305,Triple Play 99 ,2007,1.46
 1306,Homefront,2011,1.46
 1307,Super Monkey Ball,2001,1.46
 1308,Donkey Kong,1981,1.46
@@ -1432,7 +1432,7 @@ Rank,Name,Year,Global_Sales
 1432,Yoshi's New Island,2014,1.36
 1433,Ryse: Son of Rome,2013,1.36
 1434,Dead to Rights,2002,1.36
-1435,LEGO Harry Potter: Years 5-7,00,1.36
+1435,LEGO Harry Potter: Years 5-7 ,2007,1.36
 1436,Marvel vs. Capcom 3: Fate of Two Worlds,2011,1.35
 1437,Dance Dance Revolution (Japan),1999,1.35
 1438,F1 2010,2010,1.35
@@ -1497,7 +1497,7 @@ Rank,Name,Year,Global_Sales
 1497,Madden NFL 97,1996,1.32
 1498,Cars 2,2011,1.32
 1499,Skylanders Giants,2012,1.32
-1500,LEGO Batman: The Videogame,00,1.32
+1500,LEGO Batman: The Videogame ,2007,1.32
 1501,TNN Motor Sports Hardcore 4x4,1996,1.31
 1502,IHRA Drag Racing 2,2002,1.31
 1503,The Beatles: Rock Band,2009,1.31
@@ -1512,7 +1512,7 @@ Rank,Name,Year,Global_Sales
 1512,High School Musical 3: Senior Year DANCE!,2008,1.31
 1513,Gold's Gym: Cardio Workout,2008,1.31
 1514,Burnout 3: Takedown,2004,1.31
-1515,Adventure,00,1.3
+1515,Adventure ,2007,1.3
 1516,Yu-Gi-Oh! The Sacred Cards,2002,1.3
 1517,Crysis 2,2011,1.3
 1518,NBA Live 07,2006,1.3
@@ -1584,7 +1584,7 @@ Rank,Name,Year,Global_Sales
 1584,SOCOM: U.S. Navy SEALs Confrontation,2008,1.25
 1585,NBA Live 2001,2000,1.25
 1586,Star Wars: The Force Unleashed,2008,1.25
-1587,Combat,00,1.25
+1587,Combat ,2007,1.25
 1588,Tom Clancy's Rainbow Six: Vegas,2007,1.25
 1589,Dragon Ball: Daimaou Fukkatsu,1988,1.25
 1590,Gegege no Kitarou 2: Youkai Gundan no Chousen,1987,1.25
@@ -1648,7 +1648,7 @@ Rank,Name,Year,Global_Sales
 1648,Max Payne,2001,1.22
 1649,WCW Mayhem,1998,1.22
 1650,NBA 2K2,2002,1.22
-1651,NASCAR Thunder 2003,00,1.22
+1651,NASCAR Thunder 2003 ,2007,1.22
 1652,Super Street Fighter IV: 3D Edition,2011,1.22
 1653,Cars,2006,1.21
 1654,Fuzion Frenzy,2001,1.21
@@ -1696,7 +1696,7 @@ Rank,Name,Year,Global_Sales
 1696,Kobe Bryant in NBA Courtside,1998,1.19
 1697,Disney's Chip 'n Dale: Rescue Rangers,1990,1.19
 1698,The Dukes of Hazzard: Racing for Home,1999,1.19
-1699,Hitman 2: Silent Assassin,00,1.19
+1699,Hitman 2: Silent Assassin ,2007,1.19
 1700,FIFA 14,2013,1.19
 1701,Spider-Man: The Movie,2002,1.19
 1702,Final Fantasy I & II: Dawn of Souls,2004,1.19
@@ -1836,7 +1836,7 @@ Rank,Name,Year,Global_Sales
 1836,GRID,2008,1.11
 1837,Guitar Hero Encore: Rocks The 80s,2007,1.11
 1838,Sunset Overdrive,2014,1.11
-1839,Rock Band,00,1.11
+1839,Rock Band ,2007,1.11
 1840,Tom Clancy's Splinter Cell: Chaos Theory,2005,1.11
 1841,Donkey Kong Jr.,1983,1.11
 1842,Arc the Lad,1995,1.11
@@ -1989,7 +1989,7 @@ Rank,Name,Year,Global_Sales
 1989,The Simpsons Game,2007,1.05
 1990,Guinness World Records: The Videogame,2008,1.04
 1991,MVP Baseball 2003,2003,1.04
-1992,Legacy of Kain: Soul Reaver,00,1.04
+1992,Legacy of Kain: Soul Reaver ,2007,1.04
 1993,Dragon Ball Z: Budokai Tenkaichi 3,2007,1.04
 1994,Disney Tangled,2010,1.04
 1995,Tales of Destiny,1997,1.04
@@ -2018,7 +2018,7 @@ Rank,Name,Year,Global_Sales
 2018,Rayman Origins,2011,1.03
 2019,Epic Mickey 2: The Power of Two,2012,1.03
 2020,NCAA March Madness 2004,2003,1.03
-2021,Donkey Kong Land III,00,1.03
+2021,Donkey Kong Land III ,2007,1.03
 2022,Bomberman,1985,1.03
 2023,The Simpsons Game,2007,1.03
 2024,Tomb Raider,1996,1.03
@@ -2085,7 +2085,7 @@ Rank,Name,Year,Global_Sales
 2085,NFL Fever 2002,2000,0.99
 2086,The Simpsons: Hit & Run,2003,0.99
 2087,Littlest Pet Shop: Winter,2008,0.99
-2088,LEGO Harry Potter: Years 5-7,00,0.99
+2088,LEGO Harry Potter: Years 5-7 ,2007,0.99
 2089,Tom Clancy's Splinter Cell: Blacklist,2013,0.99
 2090,Ace Combat X: Skies of Deception,2006,0.99
 2091,NCAA Football 12,2011,0.99
@@ -2112,8 +2112,8 @@ Rank,Name,Year,Global_Sales
 2112,Sonic & Sega All-Stars Racing,2010,0.98
 2113,Tetris 2,1993,0.98
 2114,NASCAR 99,1998,0.98
-2115,Air-Sea Battle,00,0.98
-2116,Suikoden III,00,0.98
+2115,Air-Sea Battle ,2007,0.98
+2116,Suikoden III ,2007,0.98
 2117,Kingdom Hearts Re:coded,2010,0.98
 2118,South Park: The Stick of Truth,2014,0.98
 2119,Driver: San Francisco,2011,0.98
@@ -2133,7 +2133,7 @@ Rank,Name,Year,Global_Sales
 2133,Mass Effect 3,2012,0.97
 2134,NBA 2K10,2009,0.97
 2135,Fire Emblem,2003,0.97
-2136,Yakuza 4,00,0.97
+2136,Yakuza 4 ,2007,0.97
 2137,Skylanders: Spyro's Adventure,2011,0.97
 2138,Club Penguin: Game Day!,2010,0.97
 2139,NHL 2004,2003,0.97
@@ -2144,7 +2144,7 @@ Rank,Name,Year,Global_Sales
 2144,Romancing SaGa,1992,0.97
 2145,Donkey Kong Junior,1981,0.97
 2146,LEGO Star Wars II: The Original Trilogy,2006,0.97
-2147,LEGO Harry Potter: Years 5-7,00,0.97
+2147,LEGO Harry Potter: Years 5-7 ,2007,0.97
 2148,Final Fantasy X / X-2 HD Remaster,2013,0.97
 2149,Medal of Honor: Underground,2000,0.97
 2150,The Sims 2,2005,0.96
@@ -2172,7 +2172,7 @@ Rank,Name,Year,Global_Sales
 2172,Naruto Shippuden: Ultimate Ninja Storm 3,2013,0.96
 2173,LEGO Jurassic World,2015,0.95
 2174,ESPN NBA 2K5,2004,0.95
-2175,Wheel of Fortune,00,0.95
+2175,Wheel of Fortune ,2007,0.95
 2176,World Championship Poker,2004,0.95
 2177,Tom Clancy's Splinter Cell: Chaos Theory,2005,0.95
 2178,SpongeBob SquarePants: Battle for Bikini Bottom,2003,0.95
@@ -2285,7 +2285,7 @@ Rank,Name,Year,Global_Sales
 2285,Glover,1998,0.91
 2286,MX vs. ATV Reflex,2009,0.91
 2287,Minecraft: Story Mode,2015,0.91
-2288,Namco Museum,00,0.91
+2288,Namco Museum ,2007,0.91
 2289,Marvel: Ultimate Alliance 2,2009,0.91
 2290,Call of Duty: World at War,2008,0.91
 2291,Super Momotarou Dentetsu III,1994,0.91
@@ -2294,7 +2294,7 @@ Rank,Name,Year,Global_Sales
 2294,Dragon Age: Inquisition,2014,0.91
 2295,The Simpsons Game,2007,0.91
 2296,Tiger Woods PGA Tour 2002,2002,0.9
-2297,Rhythm Heaven,00,0.9
+2297,Rhythm Heaven ,2007,0.9
 2298,Mini-Yonku Shining Scorpion: Let's & Go!!,1996,0.9
 2299,MLB 2005,2004,0.9
 2300,SOCOM 4: U.S. Navy SEALs,2011,0.9
@@ -2414,14 +2414,14 @@ Rank,Name,Year,Global_Sales
 2414,Darksiders II,2012,0.86
 2415,Ghostbusters: The Video Game,2009,0.86
 2416,The World Ends With You,2007,0.86
-2417,The Lord of the Rings: War in the North,00,0.86
+2417,The Lord of the Rings: War in the North ,2007,0.86
 2418,Rocky,2002,0.86
 2419,Dragon Quest VIII: Journey of the Cursed King,2015,0.86
 2420,Ford Racing,2001,0.86
 2421,Madden Football 64,1997,0.86
 2422,MLB 99,1998,0.86
 2423,Dragon Ball Z: Burst Limit,2008,0.86
-2424,The Lord of the Rings: War in the North,00,0.86
+2424,The Lord of the Rings: War in the North ,2007,0.86
 2425,The Legendary Starfy,2008,0.86
 2426,2010 FIFA World Cup South Africa,2010,0.86
 2427,Dynasty Warriors 4: Xtreme Legends,2003,0.86
@@ -2483,7 +2483,7 @@ Rank,Name,Year,Global_Sales
 2483,Ace Combat 3: Electrosphere,1999,0.83
 2484,Dynasty Warriors 2,2000,0.83
 2485,Battle of Giants: Dinosaurs,2008,0.83
-2486,Madden NFL 07,00,0.83
+2486,Madden NFL 07 ,2007,0.83
 2487,Lizzie McGuire 2: Lizzie Diaries,2004,0.83
 2488,Borderlands 2,2014,0.83
 2489,FIFA Soccer World Championship,2000,0.83
@@ -2496,7 +2496,7 @@ Rank,Name,Year,Global_Sales
 2496,Sly 3: Honor Among Thieves,2005,0.83
 2497,The Price is Right,2008,0.83
 2498,Sid Meier's Civilization Revolution,2008,0.83
-2499,MLB SlugFest 20-03,00,0.83
+2499,MLB SlugFest 20-03 ,2007,0.83
 2500,I Spy: Fun House,2007,0.83
 2501,The Amazing Spider-Man (Console Version),2012,0.83
 2502,Dragon Ball: Raging Blast 2,2010,0.83
@@ -2527,7 +2527,7 @@ Rank,Name,Year,Global_Sales
 2527,Imagine: Rock Star,2008,0.82
 2528,Shin Megami Tensei: Persona 4,2008,0.82
 2529,SingStar Vol. 2,2008,0.82
-2530,Shaun White Snowboarding,00,0.82
+2530,Shaun White Snowboarding ,2007,0.82
 2531,Madden NFL 25,2013,0.82
 2532,Twisted Metal (2012),2012,0.82
 2533,Dragon Warrior III,2000,0.81
@@ -2585,7 +2585,7 @@ Rank,Name,Year,Global_Sales
 2585,Resident Evil: Revelations,2013,0.8
 2586,Rayman Raving Rabbids 2,2007,0.8
 2587,Super Robot Taisen α,2000,0.8
-2588,PES 2009: Pro Evolution Soccer,00,0.8
+2588,PES 2009: Pro Evolution Soccer ,2007,0.8
 2589,Need for Speed: Hot Pursuit 2,2002,0.8
 2590,Star Wars: The Force Unleashed II,2010,0.8
 2591,Band Hero,2009,0.8
@@ -2775,7 +2775,7 @@ Rank,Name,Year,Global_Sales
 2775,Brink,2011,0.74
 2776,LEGO Marvel Super Heroes,2013,0.74
 2777,Blur,2010,0.74
-2778,Madden NFL 11,00,0.74
+2778,Madden NFL 11 ,2007,0.74
 2779,Namco Museum Remix,2007,0.74
 2780,Midnight Club 3: DUB Edition,2005,0.74
 2781,Crysis 2,2011,0.74
@@ -2785,7 +2785,7 @@ Rank,Name,Year,Global_Sales
 2785,Jet Moto 3,1999,0.74
 2786,Naruto Shippuden: Ultimate Ninja Storm Generations,2012,0.74
 2787,Unreal Championship,2002,0.74
-2788,WarioWare: Twisted!,00,0.74
+2788,WarioWare: Twisted! ,2007,0.74
 2789,Pirates of the Caribbean: At World's End,2007,0.74
 2790,Tiger Woods PGA Tour 08,2007,0.74
 2791,Persona 4: Arena,2012,0.74
@@ -2837,7 +2837,7 @@ Rank,Name,Year,Global_Sales
 2837,Tiger Woods PGA Tour 07,2006,0.72
 2838,Test Drive 6,1999,0.72
 2839,Kouchuu Ouja Mushi King,2005,0.72
-2840,LEGO Harry Potter: Years 5-7,00,0.72
+2840,LEGO Harry Potter: Years 5-7 ,2007,0.72
 2841,Major League Baseball 2K7,2007,0.72
 2842,X-Men: Mutant Academy 2,2001,0.72
 2843,Terraria,2013,0.72
@@ -2946,7 +2946,7 @@ Rank,Name,Year,Global_Sales
 2946,Metal Gear Solid: Portable Ops Plus,2007,0.69
 2947,Disney Tangled,2010,0.69
 2948,Shrek the Third,2007,0.69
-2949,Test Drive Unlimited 2,00,0.69
+2949,Test Drive Unlimited 2 ,2007,0.69
 2950,Moto Racer 2,1997,0.69
 2951,Halo 2 Multiplayer Map Pack,2005,0.69
 2952,Minecraft: Story Mode,2015,0.69
@@ -3048,7 +3048,7 @@ Rank,Name,Year,Global_Sales
 3048,NHL 13,2012,0.67
 3049,Borderlands: The Pre-Sequel,2014,0.67
 3050,The Sims 3: High-End Loft Stuff,2010,0.67
-3051,The Chronicles of Narnia: The Lion The Witch and The Wardrobe,00,0.67
+3051,The Chronicles of Narnia: The Lion The Witch and The Wardrobe ,2007,0.67
 3052,Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Koushiki Soft: 200 Mannin no KanKen: Tokoton Kanji Nou,2006,0.66
 3053,Pro Pinball: Big Race USA,1999,0.66
 3054,NFL Street,2004,0.66
@@ -3140,7 +3140,7 @@ Rank,Name,Year,Global_Sales
 3140,Crash of the Titans,2007,0.64
 3141,Aliens: Colonial Marines,2013,0.64
 3142,Crash: Twinsanity,2004,0.64
-3143,Test Drive Unlimited 2,00,0.64
+3143,Test Drive Unlimited 2 ,2007,0.64
 3144,Max Payne 2: The Fall of Max Payne,2003,0.64
 3145,Dragon Ball: Raging Blast 2,2010,0.64
 3146,GoldenEye: Rogue Agent,2004,0.64
@@ -3193,7 +3193,7 @@ Rank,Name,Year,Global_Sales
 3193,Sim Theme Park,1999,0.63
 3194,FIFA Soccer 2003,2002,0.63
 3195,Ghostbusters: The Video Game,2009,0.63
-3196,Monster Hunter 2,00,0.63
+3196,Monster Hunter 2 ,2007,0.63
 3197,NASCAR 06: Total Team Control,2005,0.63
 3198,Tony Hawk's Project 8,2006,0.63
 3199,Dogz,2004,0.63
@@ -3216,7 +3216,7 @@ Rank,Name,Year,Global_Sales
 3216,Metroid Prime: Trilogy,2009,0.63
 3217,X-Man,1982,0.63
 3218,Transformers: Revenge of the Fallen (XBox 360 PS3 & PC Versions),2009,0.63
-3219,Advance Wars: Days of Ruin,00,0.63
+3219,Advance Wars: Days of Ruin ,2007,0.63
 3220,The Sims 3: Generations,2011,0.63
 3221,The Crew,2014,0.63
 3222,Battle of Giants: Dragons,2009,0.63
@@ -3237,7 +3237,7 @@ Rank,Name,Year,Global_Sales
 3237,Namco Museum,2002,0.63
 3238,Nobunaga no Yabou: Haouden,1993,0.62
 3239,Virtua Cop,1995,0.62
-3240,Metal Gear Solid 2: Substance,00,0.62
+3240,Metal Gear Solid 2: Substance ,2007,0.62
 3241,Tony Hawk's American Wasteland,2005,0.62
 3242,WWF in Your House,1996,0.62
 3243,Prince of Persia: The Forgotten Sands,2010,0.62
@@ -3345,7 +3345,7 @@ Rank,Name,Year,Global_Sales
 3345,NBA 2K8,2007,0.6
 3346,Phineas and Ferb: Across the 2nd Dimension,2011,0.6
 3347,Disney Infinity,2013,0.6
-3348,The Golden Compass,00,0.6
+3348,The Golden Compass ,2007,0.6
 3349,WarioWare D.I.Y.,2009,0.6
 3350,Tony Hawk: RIDE,2009,0.6
 3351,LEGO Jurassic World,2015,0.6
@@ -3420,7 +3420,7 @@ Rank,Name,Year,Global_Sales
 3420,NHL 12,2011,0.59
 3421,Tales of Zestiria,2015,0.59
 3422,Silent Hill: Shattered Memories,2010,0.59
-3423,Madden NFL 06,00,0.59
+3423,Madden NFL 06 ,2007,0.59
 3424,Skate it,2008,0.59
 3425,Game Party in Motion,2010,0.59
 3426,Barbie: Race & Ride,1999,0.59
@@ -3467,7 +3467,7 @@ Rank,Name,Year,Global_Sales
 3467,FIFA: Road to World Cup 98,1997,0.58
 3468,World Cup 98,1998,0.58
 3469,International Superstar Soccer '98,1998,0.58
-3470,NASCAR: Dirt to Daytona,00,0.58
+3470,NASCAR: Dirt to Daytona ,2007,0.58
 3471,Unreal Tournament,2000,0.58
 3472,Digimon World 2,2000,0.58
 3473,Tales of Phantasia,1998,0.58
@@ -3500,7 +3500,7 @@ Rank,Name,Year,Global_Sales
 3500,Tetris Party Deluxe,2010,0.58
 3501,NFL Blitz 2000,1999,0.58
 3502,Ratchet & Clank: Quest for Booty,2008,0.58
-3503,Madden NFL 2002,00,0.58
+3503,Madden NFL 2002 ,2007,0.58
 3504,NCAA Football 10,2009,0.58
 3505,Top Spin 3,2008,0.57
 3506,Shin Megami Tensei IV,2013,0.57
@@ -3714,7 +3714,7 @@ Rank,Name,Year,Global_Sales
 3714,Manhunt 2,2007,0.54
 3715,SRS: Street Racing Syndicate,2004,0.54
 3716,Despicable Me: The Game - Minion Mayhem,2010,0.54
-3717,Def Jam: Fight for NY,00,0.54
+3717,Def Jam: Fight for NY ,2007,0.54
 3718,Action Force,1982,0.54
 3719,Gauntlet Legends,1999,0.54
 3720,FIFA 99,1998,0.54
@@ -3752,7 +3752,7 @@ Rank,Name,Year,Global_Sales
 3752,The Hobbit,2003,0.54
 3753,War of the Monsters,2003,0.54
 3754,Tales of Symphonia: Dawn of the New World,2008,0.54
-3755,NBA Street Vol. 2,00,0.54
+3755,NBA Street Vol. 2 ,2007,0.54
 3756,The Incredible Hulk: Ultimate Destruction,2005,0.54
 3757,Star Wars Battlefront (2015),2015,0.54
 3758,Sakura Taisen 2 - Kimi Shinitamou Koto Nakare,1998,0.53
@@ -3879,7 +3879,7 @@ Rank,Name,Year,Global_Sales
 3879,Way of the Samurai,2002,0.51
 3880,Dragon Age: Origins,2009,0.51
 3881,Naruto Shippuden: Ultimate Ninja Storm 3,2013,0.51
-3882,Fishing Derby,00,0.51
+3882,Fishing Derby ,2007,0.51
 3883,Pac-Man Fever,2001,0.51
 3884,The LEGO Movie Videogame,2014,0.51
 3885,The 3rd Birthday,2010,0.51
@@ -3951,7 +3951,7 @@ Rank,Name,Year,Global_Sales
 3951,NHL 09,2008,0.5
 3952,Sonic Riders,2006,0.5
 3953,Looney Tunes: Back in Action,2003,0.5
-3954,Wet,00,0.5
+3954,Wet ,2007,0.5
 3955,Midnight Magic,1983,0.5
 3956,Alice: Madness Returns,2011,0.5
 3957,Pro Evolution Soccer 2012,2011,0.5
@@ -4144,13 +4144,13 @@ Rank,Name,Year,Global_Sales
 4144,World of Outlaws: Sprint Cars 2002,2002,0.48
 4145,Cars: Race-O-Rama,2009,0.48
 4146,Emergency Heroes,2008,0.48
-4147,Sonic the Hedgehog,00,0.48
+4147,Sonic the Hedgehog ,2007,0.48
 4148,Fantavision,2000,0.47
 4149,Double Dragon,1989,0.47
 4150,Alien Trilogy,1996,0.47
 4151,NBA Live 99,1998,0.47
 4152,Bravely Second: End Layer,2015,0.47
-4153,Karate,00,0.47
+4153,Karate ,2007,0.47
 4154,Dark Sector,2008,0.47
 4155,Unreal Tournament III,2008,0.47
 4156,X-Men: Next Dimension,2002,0.47
@@ -4198,7 +4198,7 @@ Rank,Name,Year,Global_Sales
 4198,The Princess and the Frog,2009,0.47
 4199,NBA Ballers: Phenom,2006,0.47
 4200,Need for Speed Carbon,2006,0.47
-4201,Tiger Woods PGA Tour 07,00,0.47
+4201,Tiger Woods PGA Tour 07 ,2007,0.47
 4202,NHL 16,2015,0.47
 4203,FIFA 12,2011,0.47
 4204,MTV Music Generator,1999,0.47
@@ -4231,7 +4231,7 @@ Rank,Name,Year,Global_Sales
 4231,Classic NES Series: Pac-Man,2004,0.46
 4232,Destroy All Humans!,2005,0.46
 4233,Dragon Ball Z: Collectible Card Game,2002,0.46
-4234,Circus Atari,00,0.46
+4234,Circus Atari ,2007,0.46
 4235,Country Dance 2,2011,0.46
 4236,Razor Freestyle Scooter,1999,0.46
 4237,Crash of the Titans,2007,0.46
@@ -4329,7 +4329,7 @@ Rank,Name,Year,Global_Sales
 4329,Resistance: Burning Skies,2012,0.45
 4330,NBA 2K13,2012,0.45
 4331,Dead or Alive: Dimensions,2011,0.45
-4332,The Chronicles of Riddick: Escape from Butcher Bay,00,0.45
+4332,The Chronicles of Riddick: Escape from Butcher Bay ,2007,0.45
 4333,Brain Challenge,2008,0.45
 4334,NFL Head Coach,2006,0.45
 4335,Watch Dogs,2014,0.45
@@ -4377,9 +4377,9 @@ Rank,Name,Year,Global_Sales
 4377,Naruto Shippuden: Ultimate Ninja Storm Generations,2012,0.45
 4378,Hot Wheels: Stunt Track Challenge,2004,0.45
 4379,Viking: Battle for Asgard,2008,0.45
-4380,Maze Craze: A Game of Cops 'n Robbers,00,0.45
+4380,Maze Craze: A Game of Cops 'n Robbers ,2007,0.45
 4381,Mobile Suit Gundam,1995,0.45
-4382,Silent Hill: Homecoming,00,0.45
+4382,Silent Hill: Homecoming ,2007,0.45
 4383,SingStar Take That,2009,0.45
 4384,SOCOM: U.S. Navy SEALs Fireteam Bravo 3,2010,0.45
 4385,Final Fantasy Collection,1999,0.45
@@ -4468,10 +4468,10 @@ Rank,Name,Year,Global_Sales
 4468,Barbie: Groom and Glam Pups,2010,0.44
 4469,Wario World,2003,0.44
 4470,Scooby-Doo! Mystery Mayhem,2003,0.44
-4471,Super Breakout,00,0.44
+4471,Super Breakout ,2007,0.44
 4472,Taiko no Tatsujin: Doki! Shinkyoku Darake no Haru Matsuri,2003,0.44
 4473,Deer Drive,2010,0.44
-4474,Robert Ludlum's The Bourne Conspiracy,00,0.44
+4474,Robert Ludlum's The Bourne Conspiracy ,2007,0.44
 4475,Just Dance 4,2012,0.44
 4476,TimeSplitters 2,2002,0.44
 4477,Battlebots: Design & Destroy,2003,0.44
@@ -4535,7 +4535,7 @@ Rank,Name,Year,Global_Sales
 4535,Max Payne 3,2012,0.43
 4536,Petz Bunnyz,2008,0.43
 4537,Castlevania: Portrait of Ruin,2006,0.43
-4538,NHL Slapshot,00,0.43
+4538,NHL Slapshot ,2007,0.43
 4539,EyeToy: AntiGrav,2004,0.43
 4540,FIFA 14,2013,0.43
 4541,EverQuest Online Adventures,2003,0.43
@@ -4682,7 +4682,7 @@ Rank,Name,Year,Global_Sales
 4682,NFL GameDay 2004,2003,0.41
 4683,Scooby-Doo and the Cyber Chase,2001,0.41
 4684,Danganronpa: Trigger Happy Havoc,2013,0.41
-4685,TERA,00,0.41
+4685,TERA ,2007,0.41
 4686,Tomb Raider: The Last Revelation,1998,0.41
 4687,pro evolution soccer 2011,2010,0.41
 4688,Sega Rally Championship 2,1999,0.41
@@ -4790,13 +4790,13 @@ Rank,Name,Year,Global_Sales
 4790,Tak and the Power of Juju,2003,0.4
 4791,Transformers: The Game (XBox 360 PS2 PS3 Wii & PC Versions),2007,0.4
 4792,Sega Superstars Tennis,2008,0.4
-4793,LEGO Harry Potter: Years 5-7,00,0.4
+4793,LEGO Harry Potter: Years 5-7 ,2007,0.4
 4794,Dragon Quest X,2013,0.4
 4795,Wall-E,2008,0.4
 4796,Medarot: Kabuto / Kuwagata Version,1997,0.4
 4797,NBA 2K10,2009,0.4
 4798,Defender,2002,0.4
-4799,NFL GameDay 2003,00,0.4
+4799,NFL GameDay 2003 ,2007,0.4
 4800,WipeOut 3 The Game,2012,0.4
 4801,Taiko no Tatsujin Wii: Dodon to 2 Yome!,2009,0.4
 4802,Thief (2014),2014,0.4
@@ -4857,14 +4857,14 @@ Rank,Name,Year,Global_Sales
 4857,Mystery Dungeon: Shiren the Wanderer,1995,0.4
 4858,Sonic Lost World,2013,0.4
 4859,Condemned 2: Bloodshot,2008,0.4
-4860,Silent Hill: Homecoming,00,0.4
+4860,Silent Hill: Homecoming ,2003,0.4
 4861,Star Wars: Clone Wars,2002,0.4
 4862,NBA Live 2002,2001,0.4
 4863,Boku no Natsuyasumi,2000,0.4
 4864,Armored Core V,2012,0.4
 4865,I-Ninja,2003,0.4
 4866,Command & Conquer,1996,0.4
-4867,Harvest Moon: Save the Homeland,00,0.4
+4867,Harvest Moon: Save the Homeland ,2003,0.4
 4868,NBA Jam,2010,0.4
 4869,Mass Effect 2,2010,0.4
 4870,SD Gundam G Generation Seed,2004,0.4
@@ -4933,7 +4933,7 @@ Rank,Name,Year,Global_Sales
 4933,Custom Robo V2,2000,0.39
 4934,Extreme-G: XG2,1998,0.39
 4935,BattleTanx: Global Assault,1999,0.39
-4936,Robert Ludlum's The Bourne Conspiracy,00,0.39
+4936,Robert Ludlum's The Bourne Conspiracy ,2003,0.39
 4937,Chibi-Robo! Plug into Adventure!,2005,0.39
 4938,Dawn of Discovery,2009,0.39
 4939,Jampack Winter 2003 (RP-T),2003,0.39
@@ -5060,7 +5060,7 @@ Rank,Name,Year,Global_Sales
 5060,Just Dance 2015,2014,0.38
 5061,Madagascar: Escape 2 Africa,2008,0.38
 5062,ZhuZhu Pets: Featuring The Wild Bunch,2010,0.38
-5063,Hangman,00,0.38
+5063,Hangman ,2003,0.38
 5064,Petz Rescue: Wildlife Vet,2008,0.38
 5065,Green Day: Rock Band,2010,0.38
 5066,Gravitar,1982,0.38
@@ -5077,7 +5077,7 @@ Rank,Name,Year,Global_Sales
 5077,Dragon Ball Z: Attack of the Saiyans,2009,0.38
 5078,Marvel Super Hero Squad,2009,0.38
 5079,The House of the Dead: Overkill - Extended Cut,2011,0.38
-5080,The Golden Compass,00,0.38
+5080,The Golden Compass ,2003,0.38
 5081,Harry Potter and the Prisoner of Azkaban,2004,0.38
 5082,Quake 4,2005,0.38
 5083,Petz Rescue: Ocean Patrol,2008,0.37
@@ -5161,7 +5161,7 @@ Rank,Name,Year,Global_Sales
 5161,The Sims 2: Castaway,2007,0.37
 5162,NCAA Football 07,2006,0.37
 5163,The Chronicles of Narnia: Prince Caspian,2008,0.36
-5164,NBA Live 2003,00,0.36
+5164,NBA Live 2003 ,2003,0.36
 5165,Dreamworks Madagascar Kartz,2009,0.36
 5166,My Horse & Me,2007,0.36
 5167,GoldenEye: Rogue Agent,2004,0.36
@@ -5170,7 +5170,7 @@ Rank,Name,Year,Global_Sales
 5170,Nonomura Byoin no Hitobito,1996,0.36
 5171,Tom Clancy's HAWX 2,2010,0.36
 5172,ESPN X Games Skateboarding,2001,0.36
-5173,Bejeweled 3,00,0.36
+5173,Bejeweled 3 ,2003,0.36
 5174,Resident Evil Zero,2016,0.36
 5175,Super Fire ProWrestling Special,1994,0.36
 5176,Yuu Yuu Hakusho,1993,0.36
@@ -5194,8 +5194,8 @@ Rank,Name,Year,Global_Sales
 5194,Okage: Shadow King,2001,0.36
 5195,Press Your Luck 2010 Edition,2009,0.36
 5196,Mobile Suit Z-Gundam,1997,0.36
-5197,Cubix Robots for Everyone: Clash 'n' Bash,00,0.36
-5198,Tropico 4,00,0.36
+5197,Cubix Robots for Everyone: Clash 'n' Bash ,2003,0.36
+5198,Tropico 4 ,2003,0.36
 5199,Speed Racer: The Videogame,2008,0.36
 5200,NHL 2K10,2009,0.36
 5201,Assassin's Creed III,2012,0.36
@@ -5239,7 +5239,7 @@ Rank,Name,Year,Global_Sales
 5239,Ryu Ga Gotoku Kenzan!,2008,0.36
 5240,U-Sing,2009,0.36
 5241,Super Robot Taisen A,2001,0.36
-5242,Tomb Raider (2013),00,0.36
+5242,Tomb Raider (2013) ,2003,0.36
 5243,Chicken Shoot,2007,0.36
 5244,Company of Heroes 2,2013,0.36
 5245,Defiance,2013,0.36
@@ -5301,7 +5301,7 @@ Rank,Name,Year,Global_Sales
 5301,SimCity Creator,2008,0.35
 5302,Hannah Montana: The Movie,2009,0.35
 5303,Angry Birds Star Wars,2013,0.35
-5304,Dragon Ball Z: Budokai Tenkaichi 2 (JP sales),00,0.35
+5304,Dragon Ball Z: Budokai Tenkaichi 2 (JP sales) ,2003,0.35
 5305,Mega Man ZX Advent,2007,0.35
 5306,Jikkyou Powerful Pro Yakyuu 2000,2000,0.35
 5307,Sniper: Ghost Warrior 2,2013,0.35
@@ -5507,7 +5507,7 @@ Rank,Name,Year,Global_Sales
 5507,GT Advance Championship Racing,2001,0.33
 5508,Way of the Samurai 2,2003,0.33
 5509,FIFA Street 3,2008,0.33
-5510,Custom Robo,00,0.33
+5510,Custom Robo ,2003,0.33
 5511,BattleTanx,1998,0.33
 5512,Hatsune Miku: Project Diva Extend,2011,0.33
 5513,Battlestations: Pacific,2009,0.33
@@ -5617,14 +5617,14 @@ Rank,Name,Year,Global_Sales
 5617,Harvest Moon: Back to Nature,1999,0.32
 5618,Sniper Elite 3,2014,0.32
 5619,Naruto: Ultimate Ninja (JP sales),2003,0.32
-5620,Final Fantasy XI,00,0.32
+5620,Final Fantasy XI ,2003,0.32
 5621,The Settlers 7: Paths to a Kingdom,2010,0.32
 5622,Go Diego Go!: Great Dinosaur Rescue,2008,0.32
 5623,TrackMania Turbo,2016,0.32
 5624,The Biggest Loser,2009,0.32
 5625,Minute to Win It,2011,0.32
 5626,Darkwatch,2005,0.32
-5627,Singularity,00,0.32
+5627,Singularity ,2003,0.32
 5628,Dance Dance Revolution Universe,2007,0.32
 5629,SimAnimals,2009,0.32
 5630,Prince of Persia: The Sands of Time,2003,0.32
@@ -5656,7 +5656,7 @@ Rank,Name,Year,Global_Sales
 5656,Rock Band Country Track Pack,2009,0.32
 5657,7 Wonders II,2009,0.32
 5658,Ed Edd n Eddy: Jawbreakers!,2002,0.32
-5659,Dragster,00,0.32
+5659,Dragster ,2003,0.32
 5660,Frankenstein's Monster,1982,0.32
 5661,Riven: The Sequel to Myst,1997,0.32
 5662,Derby Stallion DS,2008,0.32
@@ -5668,7 +5668,7 @@ Rank,Name,Year,Global_Sales
 5668,Shin Momotarou Densetsu,1993,0.32
 5669,From TV Animation One Piece: Grand Battle! 3,2003,0.32
 5670,Sega Smash Pack,2002,0.32
-5671,All-Star Baseball 2005,00,0.32
+5671,All-Star Baseball 2005 ,2003,0.32
 5672,The Conveni: Ano Machi wo Dokusen Seyo,1997,0.32
 5673,Shin Super Robot Taisen Special Disk,1997,0.32
 5674,Live A Live,1994,0.32
@@ -5768,7 +5768,7 @@ Rank,Name,Year,Global_Sales
 5768,J-League Winning Eleven 2007: Club Championship,2007,0.31
 5769,Shrek's Carnival Craze Party Games,2008,0.31
 5770,Harvest Moon: Magical Melody,2008,0.31
-5771,Star Wars Jedi Knight II: Jedi Outcast,00,0.31
+5771,Star Wars Jedi Knight II: Jedi Outcast ,2003,0.31
 5772,Yu-Gi-Oh! 5D's World Championship 2010 Reverse of Arcadia,2010,0.31
 5773,Mega Man Battle Network 2,2002,0.31
 5774,Little King's Story,2009,0.31
@@ -5797,7 +5797,7 @@ Rank,Name,Year,Global_Sales
 5797,NCAA Final Four 2002,2001,0.31
 5798,South Park: Chef's Luv Shack,1998,0.31
 5799,Music Maker,2001,0.31
-5800,Slot Machine,00,0.31
+5800,Slot Machine ,2003,0.31
 5801,Ganbare Goemon 2: Kiteretsu Shougun Magginesu,1993,0.31
 5802,Astroblast,1981,0.31
 5803,Blade II,2002,0.31
@@ -5837,7 +5837,7 @@ Rank,Name,Year,Global_Sales
 5837,Dai-2-Ji Super Robot Taisen OG,2012,0.3
 5838,Stranglehold,2007,0.3
 5839,Trauma Center: New Blood,2007,0.3
-5840,Shrek the Third,00,0.3
+5840,Shrek the Third ,2003,0.3
 5841,Lumines ll,2006,0.3
 5842,NES Remix,2014,0.3
 5843,1701 A.D.,2006,0.3
@@ -5860,7 +5860,7 @@ Rank,Name,Year,Global_Sales
 5860,Invizimals: Shadow Zone,2010,0.3
 5861,24: The Game,2006,0.3
 5862,Spider-Man 3,2007,0.3
-5863,The Dukes of Hazzard II: Daisy Dukes It Out,00,0.3
+5863,The Dukes of Hazzard II: Daisy Dukes It Out ,2003,0.3
 5864,Famista '91,1990,0.3
 5865,Squinkies,2011,0.3
 5866,Zoo Tycoon 2 DS,2008,0.3
@@ -5869,7 +5869,7 @@ Rank,Name,Year,Global_Sales
 5869,Drakengard 3,2013,0.3
 5870,Decathlete,1994,0.3
 5871,The Sims 2,2004,0.3
-5872,Disgaea 3: Absence of Detention,00,0.3
+5872,Disgaea 3: Absence of Detention ,2003,0.3
 5873,Tom Clancy's Splinter Cell 3D,2011,0.3
 5874,DmC: Devil May Cry,2015,0.3
 5875,Jonas,2009,0.3
@@ -5900,7 +5900,7 @@ Rank,Name,Year,Global_Sales
 5900,Shin Megami Tensei: Persona 2: Innocent Sin,2011,0.3
 5901,Army Men: Air Attack 2,2000,0.3
 5902,Need for Speed: Most Wanted,2005,0.3
-5903,NBA Live 2003,00,0.3
+5903,NBA Live 2003 ,2003,0.3
 5904,Pride FC: Fighting Championships,2003,0.3
 5905,Eternal Ring,2000,0.3
 5906,Dragon Force,1996,0.3
@@ -5912,7 +5912,7 @@ Rank,Name,Year,Global_Sales
 5912,Spider-Man: Friend or Foe,2007,0.3
 5913,FIFA 15,2014,0.3
 5914,Dance Dance Revolution Universe 3,2008,0.3
-5915,Harvest Moon: The Tale of Two Towns,00,0.3
+5915,Harvest Moon: The Tale of Two Towns ,2003,0.3
 5916,We Sing Pop!,2012,0.3
 5917,Showdown: Legends of Wrestling,2004,0.3
 5918,Capcom Classics Collection Remixed,2006,0.3
@@ -6041,7 +6041,7 @@ Rank,Name,Year,Global_Sales
 6041,The Lord of the Rings: The Third Age,2004,0.29
 6042,Disney Infinity,2013,0.29
 6043,Fable: The Journey,2012,0.29
-6044,Nicktoons: Battle for Volcano Island,00,0.29
+6044,Nicktoons: Battle for Volcano Island ,2003,0.29
 6045,Sonic Boom: Shattered Crystal,2014,0.29
 6046,Just Dance Wii 2,2012,0.29
 6047,Madden NFL 08,2007,0.29
@@ -6124,7 +6124,7 @@ Rank,Name,Year,Global_Sales
 6124,Shadow Hearts,2001,0.28
 6125,NHL 2K11,2010,0.28
 6126,One Piece: Burning Blood,2016,0.28
-6127,Haven: Call of the King,00,0.28
+6127,Haven: Call of the King ,2003,0.28
 6128,Street Hoops,2002,0.28
 6129,Yu-Gi-Oh! Double Pack,2006,0.28
 6130,X-Men: Reign of Apocalypse,2001,0.28
@@ -6152,7 +6152,7 @@ Rank,Name,Year,Global_Sales
 6152,Arcade Hits: Frisky Tom,2002,0.28
 6153,Dead to Rights: Retribution,2010,0.28
 6154,Harry Potter and the Sorcerer's Stone,2003,0.28
-6155,Unreal Championship 2: The Liandri Conflict,00,0.28
+6155,Unreal Championship 2: The Liandri Conflict ,2003,0.28
 6156,Kung Fu Chaos,2003,0.28
 6157,Mega Man: Dr. Wily's Revenge,1991,0.28
 6158,Yu-Gi-Oh! World Championship 2008,2007,0.28
@@ -6194,7 +6194,7 @@ Rank,Name,Year,Global_Sales
 6194,Mega Man 7,1995,0.28
 6195,NCAA March Madness 2005,2004,0.28
 6196,Shadows of the Damned,2011,0.28
-6197,The Chronicles of Narnia: The Lion The Witch and The Wardrobe,00,0.28
+6197,The Chronicles of Narnia: The Lion The Witch and The Wardrobe ,2003,0.28
 6198,NBA In The Zone,1995,0.28
 6199,Corvette,2003,0.28
 6200,F1 ROC: Race of Champions,1992,0.28
@@ -6210,7 +6210,7 @@ Rank,Name,Year,Global_Sales
 6210,Bass Strike,2001,0.28
 6211,NHL Hitz 20-03,2002,0.28
 6212,Danganronpa Another Episode: Ultra Despair Girls,2014,0.28
-6213,Pac-Man Fever,00,0.28
+6213,Pac-Man Fever ,2003,0.28
 6214,Over the Hedge,2006,0.28
 6215,Real Pool,2000,0.28
 6216,iCarly 2: iJoin The Click!,2010,0.28
@@ -6271,7 +6271,7 @@ Rank,Name,Year,Global_Sales
 6271,Rapala Pro Bass Fishing 2010,2010,0.27
 6272,Shin Nippon Pro Wrestling: Toukon Retsuden 2,1996,0.27
 6273,Dragon Ball Z: Budokai 2,2004,0.27
-6274,The Legend of Zelda: The Minish Cap(weekly JP sales),00,0.27
+6274,The Legend of Zelda: The Minish Cap(weekly JP sales) ,2003,0.27
 6275,Motocross Maniacs Advance,2002,0.27
 6276,Resident Evil 2: Dual Shock Edition,1998,0.27
 6277,Dynasty Warriors,1997,0.27
@@ -6282,7 +6282,7 @@ Rank,Name,Year,Global_Sales
 6282,Tiny Toon Adventures: Plucky's Big Adventure,2001,0.27
 6283,NHL Hitz 20-02,2001,0.27
 6284,Iron Man 2,2010,0.27
-6285,Indy 500,00,0.27
+6285,Indy 500 ,2003,0.27
 6286,Littlest Pet Shop: Beach Friends,2009,0.27
 6287,Trivial Pursuit,2009,0.27
 6288,Suikoden Tierkreis,2008,0.27
@@ -6313,12 +6313,12 @@ Rank,Name,Year,Global_Sales
 6313,NickToons: Racing,2002,0.27
 6314,MotionSports: Adrenaline,2011,0.27
 6315,Tiger Woods PGA Tour 07,2006,0.27
-6316,Gun,00,0.27
+6316,Gun ,2003,0.27
 6317,NHL 07,2006,0.27
-6318,Flag Capture,00,0.27
+6318,Flag Capture ,2003,0.27
 6319,Bridge,1980,0.27
 6320,G-Force,2009,0.27
-6321,LEGO Harry Potter: Years 5-7,00,0.27
+6321,LEGO Harry Potter: Years 5-7 ,2003,0.27
 6322,The Adventures of Tintin: The Game,2011,0.27
 6323,RalliSport Challenge 2,2004,0.27
 6324,Fushigi no Dungeon: Fuurai no Shiren GB: Tsukikagemura no Kaibutsu,1996,0.27
@@ -6400,7 +6400,7 @@ Rank,Name,Year,Global_Sales
 6400,Family Feud: 2010 Edition,2009,0.27
 6401,Final Doom,1995,0.27
 6402,Deadly Premonition,2010,0.27
-6403,Rock Revolution,00,0.27
+6403,Rock Revolution ,2003,0.27
 6404,Are You Smarter than a 5th Grader? Game Time,2009,0.27
 6405,NBA ShootOut 2001,2000,0.27
 6406,Knockout Kings 2002,2002,0.27
@@ -6495,7 +6495,7 @@ Rank,Name,Year,Global_Sales
 6495,Lumines: Electronic Symphony,2012,0.26
 6496,Star Trek: Invasion,2000,0.26
 6497,Final Fantasy Crystal Chronicles: Echoes of Time,2009,0.26
-6498,Jonah Lomu Rugby Challenge,00,0.26
+6498,Jonah Lomu Rugby Challenge ,2003,0.26
 6499,Babysitting Mania,2008,0.26
 6500,Star Wars: Bounty Hunter,2002,0.26
 6501,Tom and Jerry in War of the Whiskers,2002,0.26
@@ -6646,7 +6646,7 @@ Rank,Name,Year,Global_Sales
 6646,Tony Hawk's Proving Ground,2007,0.25
 6647,Amped 2,2003,0.25
 6648,Blaster Master: Blasting Again,2000,0.25
-6649,College Hoops 2K6,00,0.25
+6649,College Hoops 2K6 ,2003,0.25
 6650,Cartoon Network Collection: Game Boy Advance Video Volume 1,2004,0.25
 6651,Cars,2006,0.25
 6652,Family Guy: Back to the Multiverse,2012,0.25
@@ -6776,7 +6776,7 @@ Rank,Name,Year,Global_Sales
 6776,Catz,2005,0.24
 6777,Jikkyou Powerful Pro Yakyuu 2001,2001,0.24
 6778,Transformers: War for Cybertron (DS Version),2010,0.24
-6779,Mega Man X Collection,00,0.24
+6779,Mega Man X Collection ,2003,0.24
 6780,Trials Fusion,2014,0.24
 6781,LEGO Ninjago: Shadow of Ronin,2015,0.24
 6782,Avalon Code,2008,0.24
@@ -6805,7 +6805,7 @@ Rank,Name,Year,Global_Sales
 6805,Namco Tennis Smash Court,1995,0.24
 6806,Vexx,2003,0.24
 6807,The Incredible Hulk,2008,0.24
-6808,BioShock 2,00,0.24
+6808,BioShock 2 ,2003,0.24
 6809,Marvel vs. Capcom Origins,2006,0.24
 6810,Pro Yaky? Spirits 2011,2011,0.24
 6811,Imagine: Teacher Class Trip,2009,0.24
@@ -6831,7 +6831,7 @@ Rank,Name,Year,Global_Sales
 6831,Boogie SuperStar,2008,0.24
 6832,Burnout 2: Point of Impact,2003,0.24
 6833,Rock Band Track Pack Volume 1,2008,0.24
-6834,Singularity,00,0.24
+6834,Singularity ,2003,0.24
 6835,Super Monkey Ball Deluxe,2005,0.24
 6836,Street Fighter X Tekken,2012,0.24
 6837,Kill.Switch,2003,0.24
@@ -6918,14 +6918,14 @@ Rank,Name,Year,Global_Sales
 6918,Shrek's Carnival Craze Party Games,2008,0.24
 6919,Angry Birds,2011,0.24
 6920,Risen 2: Dark Waters,2012,0.24
-6921,Danganronpa: Trigger Happy Havoc,00,0.24
+6921,Danganronpa: Trigger Happy Havoc ,2003,0.24
 6922,Guitar Hero Live,2015,0.24
 6923,Game & Wario,2013,0.24
 6924,PGA Tour 96,1995,0.24
 6925,Onechanbara Z2: Chaos,2014,0.24
 6926,Fallout 3 Game Add-On Pack: Broken Steel and Point Lookout,2009,0.24
 6927,Covert Ops: Nuclear Dawn,2000,0.24
-6928,DanceDanceRevolution II,00,0.24
+6928,DanceDanceRevolution II ,2003,0.24
 6929,Pictionary: Ultimate Edition,2011,0.24
 6930,LEGO Harry Potter: Years 5-7,2012,0.24
 6931,TrackMania: Build to Race,2010,0.24
@@ -6936,7 +6936,7 @@ Rank,Name,Year,Global_Sales
 6936,FIFA World Cup Germany 2006,2006,0.24
 6937,Polly Pocket: Super Splash Island,2003,0.24
 6938,God Eater 2,2013,0.24
-6939,Tony Hawk's Downhill Jam,00,0.24
+6939,Tony Hawk's Downhill Jam ,2003,0.24
 6940,Sesame Street: Elmo's Number Journey,1998,0.24
 6941,Rampage,1988,0.24
 6942,Dark Cavern,1981,0.24
@@ -6965,9 +6965,9 @@ Rank,Name,Year,Global_Sales
 6965,Street Fighter EX2 Plus,1998,0.23
 6966,The Smurfs 2,2013,0.23
 6967,Big Family Games,2009,0.23
-6968,Big Beach Sports 2,00,0.23
+6968,Big Beach Sports 2 ,2003,0.23
 6969,Hot Wheels: Beat That!,2007,0.23
-6970,Jet X20,00,0.23
+6970,Jet X20 ,2003,0.23
 6971,Super Robot Taisen D,2003,0.23
 6972,NASCAR Thunder 2004,2003,0.23
 6973,Buffy the Vampire Slayer,2002,0.23
@@ -7034,7 +7034,7 @@ Rank,Name,Year,Global_Sales
 7034,Ultimate Duck Hunting: Hunting & Retrieving Ducks,2007,0.23
 7035,Yu-Gi-Oh! GX: Duel Academy,2005,0.23
 7036,FIFA 14,2013,0.23
-7037,Tribes: Aerial Assault,00,0.23
+7037,Tribes: Aerial Assault ,2003,0.23
 7038,Colony Wars: Vengeance,1998,0.23
 7039,Last Window: The Secret of Cape West,2010,0.23
 7040,Yu-Gi-Oh! GX: Tag Force 3,2008,0.23
@@ -7180,7 +7180,7 @@ Rank,Name,Year,Global_Sales
 7180,Rune Factory: Tides of Destiny,2011,0.22
 7181,A Boy and His Blob,2009,0.22
 7182,Battleborn,2016,0.22
-7183,Move Fitness,00,0.22
+7183,Move Fitness ,2003,0.22
 7184,Atelier Escha & Logy: Alchemists of the Dusk Sky,2013,0.22
 7185,Hidden Mysteries: Buckingham Palace,2010,0.22
 7186,Crazy Climber,1981,0.22
@@ -7212,7 +7212,7 @@ Rank,Name,Year,Global_Sales
 7212,The Legend of Heroes: Trails of Cold Steel,2013,0.22
 7213,Tom Clancy's Rainbow Six: Siege,2015,0.22
 7214,Dungeon Hunter Alliance,2012,0.22
-7215,LEGO Harry Potter: Years 5-7,00,0.22
+7215,LEGO Harry Potter: Years 5-7 ,2003,0.22
 7216,Duel Masters: Kaijudo Showdown,2004,0.22
 7217,Imagine: Boutique Owner,2009,0.22
 7218,The Walking Dead: Season Two,2014,0.22
@@ -7350,7 +7350,7 @@ Rank,Name,Year,Global_Sales
 7350,NCAA March Madness 08,2007,0.21
 7351,Momotarou Dentetsu 16,2006,0.21
 7352,Robotech: The Macross Saga,2002,0.21
-7353,Yu Yu Hakusho: Dark Tournament,00,0.21
+7353,Yu Yu Hakusho: Dark Tournament ,2003,0.21
 7354,MTV Celebrity Deathmatch,2003,0.21
 7355,Gekijouban Macross F: Itsuwarino Utahime - Hybrid Pack,2010,0.21
 7356,Conflict Zone,2002,0.21
@@ -7368,8 +7368,8 @@ Rank,Name,Year,Global_Sales
 7368,Neo Contra,2004,0.21
 7369,MVP Baseball,2005,0.21
 7370,GRID Autosport,2014,0.21
-7371,Ghostbusters II,00,0.21
-7372,Breakaway IV,00,0.21
+7371,Ghostbusters II ,2003,0.21
+7372,Breakaway IV ,2003,0.21
 7373,RealSports Baseball,1981,0.21
 7374,Now! That's What I Call Music: Dance & Sing,2011,0.21
 7375,Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus,2011,0.21
@@ -7381,7 +7381,7 @@ Rank,Name,Year,Global_Sales
 7381,Quake III: Revolution,2001,0.21
 7382,Pac-Man World 3,2005,0.21
 7383,Naruto: Clash of Ninja (JP sales),2003,0.21
-7384,Robotech: Battlecry,00,0.21
+7384,Robotech: Battlecry ,2003,0.21
 7385,NOëL: NOT DiGITAL,1996,0.21
 7386,Transformer: Rise of the Dark Spark,2014,0.21
 7387,Dragon Ball Z Hyper Dimension,1995,0.21
@@ -7405,7 +7405,7 @@ Rank,Name,Year,Global_Sales
 7405,Summoner 2,2002,0.21
 7406,The Land Before Time: Big Water Adventure,2002,0.21
 7407,Shadow of Destiny,2001,0.21
-7408,Valkyria Chronicles III: Unrecorded Chronicles,00,0.21
+7408,Valkyria Chronicles III: Unrecorded Chronicles ,2003,0.21
 7409,Cabela's Deer Hunt: 2004 Season,2003,0.21
 7410,Disney's Planes,2013,0.21
 7411,Brunswick Pro Bowling,2007,0.21
@@ -7422,7 +7422,7 @@ Rank,Name,Year,Global_Sales
 7422,SBK Superbike World Championship,2008,0.21
 7423,The King of Fighters '96,1996,0.21
 7424,Bionicle,2003,0.21
-7425,WRC: FIA World Rally Championship,00,0.21
+7425,WRC: FIA World Rally Championship ,2003,0.21
 7426,Angel Blade: Neo Tokyo Guardians,1997,0.21
 7427,Threads of Fate,1999,0.21
 7428,PoPoLoCrois Monogatari II,2000,0.21
@@ -7614,7 +7614,7 @@ Rank,Name,Year,Global_Sales
 7614,NCAA Final Four 2004,2003,0.2
 7615,The Chronicles of Narnia: The Lion The Witch and The Wardrobe,2005,0.2
 7616,Tigger's Honey Hunt,2000,0.2
-7617,Famista 64,00,0.2
+7617,Famista 64 ,2003,0.2
 7618,Roadsters 99,1999,0.2
 7619,Magical Tetris Challenge,1997,0.2
 7620,Twisted Edge Extreme Snowboarding,1998,0.2
@@ -7647,7 +7647,7 @@ Rank,Name,Year,Global_Sales
 7647,Untold Legends: Dark Kingdom,2006,0.2
 7648,From Russia With Love,2005,0.2
 7649,Wing Arms,1994,0.2
-7650,Dead Space 3,00,0.2
+7650,Dead Space 3 ,2003,0.2
 7651,Pro Yaky? Spirits 2013,2013,0.2
 7652,We Wish You A Merry Christmas,2009,0.2
 7653,BioShock The Collection,2016,0.2
@@ -7719,7 +7719,7 @@ Rank,Name,Year,Global_Sales
 7719,UFC: Tapout,2002,0.2
 7720,Aikatsu! Cinderella Lesson,2012,0.2
 7721,Marvel Super Hero Squad: Comic Combat,2011,0.2
-7722,Test Drive Unlimited 2,00,0.2
+7722,Test Drive Unlimited 2 ,2002,0.2
 7723,Mega Man Legacy Collection,2016,0.2
 7724,Predator: Concrete Jungle,2005,0.2
 7725,Beyblade: Metal Fusion - Battle Fortress,2009,0.2
@@ -7907,7 +7907,7 @@ Rank,Name,Year,Global_Sales
 7907,Sing4: The Hits Edition,2011,0.19
 7908,Jewel Master: Cradle of Athena,2010,0.19
 7909,Princess Maker: Yumemiru Yosei,1997,0.19
-7910,Pet Zombies,00,0.19
+7910,Pet Zombies ,2002,0.19
 7911,Big Air,1999,0.19
 7912,Shining Force II,1993,0.19
 7913,Gallop Racer,1999,0.19
@@ -7945,7 +7945,7 @@ Rank,Name,Year,Global_Sales
 7945,Crash & Spyro Superpack,2005,0.19
 7946,Earth Defense Force: Insect Armageddon,2011,0.19
 7947,Face Training,2007,0.19
-7948,Star Trek: Legacy,00,0.19
+7948,Star Trek: Legacy ,2002,0.19
 7949,ThunderStrike 2,1994,0.19
 7950,Disney's Meet the Robinsons,2007,0.19
 7951,Call of Duty: World at War,2008,0.19
@@ -8043,7 +8043,7 @@ Rank,Name,Year,Global_Sales
 8043,Shape Up,2014,0.18
 8044,Gauntlet: Seven Sorrows,2005,0.18
 8045,AirForce Delta Storm,2001,0.18
-8046,Trauma Team,00,0.18
+8046,Trauma Team ,2002,0.18
 8047,Monopoly Party,2002,0.18
 8048,Fear Effect 2: Retro Helix,2001,0.18
 8049,How to Train Your Dragon,2010,0.18
@@ -8085,7 +8085,7 @@ Rank,Name,Year,Global_Sales
 8085,Ben 10 Ultimate Alien: Cosmic Destruction,2010,0.18
 8086,Dengeki Bunko Fighting Climax,2014,0.18
 8087,Battle Commander: Hachibushu Shura no Heihou,1991,0.18
-8088,Backbreaker,00,0.18
+8088,Backbreaker ,2002,0.18
 8089,Odin Sphere: Leifthrasir,2016,0.18
 8090,Bad Boys: Miami Takedown,2004,0.18
 8091,Jampack Vol. 1,1996,0.18
@@ -8156,7 +8156,7 @@ Rank,Name,Year,Global_Sales
 8156,Ball Breakers,2000,0.18
 8157,Mobile Suit Gundam Seed Destiny: Generation of C.E.,2005,0.18
 8158,EyeToy: Groove,2003,0.18
-8159,Twisted Metal: Small Brawl,00,0.18
+8159,Twisted Metal: Small Brawl ,2002,0.18
 8160,Disgaea 4: A Promise Unforgotten,2014,0.18
 8161,Charlie and the Chocolate Factory,2005,0.18
 8162,Armored Core: Last Raven,2005,0.18
@@ -8166,7 +8166,7 @@ Rank,Name,Year,Global_Sales
 8166,K-1 World Grand Prix,2002,0.18
 8167,Skate it,2008,0.18
 8168,Kidou Senshi Gundam: Senjou no Kizuna Portable,2009,0.18
-8169,Otomedius Excellent,00,0.18
+8169,Otomedius Excellent ,2002,0.18
 8170,Super Robot Taisen A Portable,2008,0.18
 8171,Juiced,2005,0.18
 8172,Looney Tunes: Back in Action,2003,0.18
@@ -8203,7 +8203,7 @@ Rank,Name,Year,Global_Sales
 8203,NFL 2K2,2002,0.18
 8204,My French Coach,2007,0.18
 8205,Camp Rock: The Final Jam,2010,0.18
-8206,NBA Starting Five,00,0.18
+8206,NBA Starting Five ,2002,0.18
 8207,Castlevania Judgment,2008,0.18
 8208,Dead or Alive Paradise,2010,0.17
 8209,The Suffering: Ties That Bind,2005,0.17
@@ -8222,7 +8222,7 @@ Rank,Name,Year,Global_Sales
 8222,MotoGP 10/11,2011,0.17
 8223,Jikkyou Powerful Pro Baseball 2016,2016,0.17
 8224,SEGA Bass Fishing Duel,2002,0.17
-8225,Teen Titans,00,0.17
+8225,Teen Titans ,2002,0.17
 8226,Hyperdimension Neptunia U: Action Unleashed,2014,0.17
 8227,Sports Illustrated for Kids: Baseball,2001,0.17
 8228,Fairytale Fights,2009,0.17
@@ -8312,7 +8312,7 @@ Rank,Name,Year,Global_Sales
 8312,Cabela's Legendary Adventures,2008,0.17
 8313,Jillian Michaels Fitness Ultimatum 2011,2010,0.17
 8314,Pursuit Force: Extreme Justice,2007,0.17
-8315,Backbreaker,00,0.17
+8315,Backbreaker ,2002,0.17
 8316,Hunter: The Reckoning Redeemer,2003,0.17
 8317,The Rise of the Argonauts,2008,0.17
 8318,NHL 07,2006,0.17
@@ -8333,7 +8333,7 @@ Rank,Name,Year,Global_Sales
 8333,Luxor 3,2008,0.17
 8334,Bratz Kidz,2008,0.17
 8335,Fairytale Fights,2009,0.17
-8336,James Cameron's Dark Angel,00,0.17
+8336,James Cameron's Dark Angel ,2002,0.17
 8337,MotoGP 09/10,2010,0.17
 8338,Mahjong Fight Club,2004,0.17
 8339,World Driver Championship,1999,0.17
@@ -8375,7 +8375,7 @@ Rank,Name,Year,Global_Sales
 8375,World Destruction League: Thunder Tanks,2000,0.17
 8376,Beat Down: Fists of Vengeance,2005,0.17
 8377,Reloaded,1996,0.17
-8378,Sword of the Samurai,00,0.17
+8378,Sword of the Samurai ,2002,0.17
 8379,MotoGP 15,2015,0.17
 8380,SSX On Tour,2005,0.17
 8381,Hot Wheels: Beat That!,2007,0.17
@@ -8438,7 +8438,7 @@ Rank,Name,Year,Global_Sales
 8438,Leisure Suit Larry: Magna Cum Laude,2004,0.17
 8439,Mousetrap / Operation / Simon,2005,0.17
 8440,Klonoa,2008,0.17
-8441,Splatterhouse,00,0.17
+8441,Splatterhouse ,2002,0.17
 8442,NBA 09: The Inside,2008,0.17
 8443,Spyro: Shadow Legacy,2005,0.17
 8444,Resident Evil,1997,0.17
@@ -8552,7 +8552,7 @@ Rank,Name,Year,Global_Sales
 8552,Wakeboarding Unleashed Featuring Shaun Murray,2003,0.16
 8553,The Incredibles: Rise of the Underminer,2005,0.16
 8554,Jikkyou Powerful Pro Yakyuu 3 '97 Haru,1997,0.16
-8555,Alone in the Dark: The New Nightmare,00,0.16
+8555,Alone in the Dark: The New Nightmare ,2002,0.16
 8556,The BIGS,2007,0.16
 8557,Flushed Away,2006,0.16
 8558,Eragon,2006,0.16
@@ -8619,7 +8619,7 @@ Rank,Name,Year,Global_Sales
 8619,Battle Soccer: Field no Hasha,1992,0.16
 8620,Shaun White Skateboarding,2010,0.16
 8621,MLB 11: The Show,2011,0.16
-8622,Vegas Party,00,0.16
+8622,Vegas Party ,2002,0.16
 8623,Amped 3,2005,0.16
 8624,Family Party: 30 Great Games Outdoor Fun,2009,0.16
 8625,FlatOut 2,2006,0.16
@@ -8706,7 +8706,7 @@ Rank,Name,Year,Global_Sales
 8706,Senran Kagura: Sh?jo-tachi no Shinei,2011,0.16
 8707,Ultimate Spider-Man,2005,0.16
 8708,Fist of the North Star: Ken's Rage,2010,0.16
-8709,Jurassic Park: The Game,00,0.16
+8709,Jurassic Park: The Game ,2002,0.16
 8710,He-Man: Power of Grayskull,2002,0.16
 8711,WordJong,2007,0.16
 8712,Putty Squad,2013,0.16
@@ -8759,7 +8759,7 @@ Rank,Name,Year,Global_Sales
 8759,Klax,1989,0.15
 8760,Pressure Cooker,1982,0.15
 8761,Saturn Bomberman,1996,0.15
-8762,Home Run,00,0.15
+8762,Home Run ,2002,0.15
 8763,Jikkyou Powerful Pro Yakyuu Portable,2006,0.15
 8764,The Adventures of Tintin: The Game,2011,0.15
 8765,American Chopper,2004,0.15
@@ -8898,7 +8898,7 @@ Rank,Name,Year,Global_Sales
 8898,Strawberry Shortcake: Game Boy Advance Video Volume 1,2004,0.15
 8899,Armored Core: For Answer,2008,0.15
 8900,Geist,2005,0.15
-8901,eJay Clubworld,00,0.15
+8901,eJay Clubworld ,2002,0.15
 8902,Cardinal Syn,1998,0.15
 8903,Charm Girls Club: Pajama Party,2009,0.15
 8904,Street Fighter Alpha 3,2002,0.15
@@ -8928,7 +8928,7 @@ Rank,Name,Year,Global_Sales
 8928,Harvest Moon: Hero of Leaf Valley,2009,0.15
 8929,Phantasy Star Online Episode I & II,2003,0.15
 8930,F1 2012,2012,0.15
-8931,All-Star Baseball 2005,00,0.15
+8931,All-Star Baseball 2005 ,2002,0.15
 8932,Rayman Raving Rabbids,2007,0.15
 8933,Kung-Fu: High Impact,2011,0.15
 8934,SNK Arcade Classics Vol. 1,2008,0.15
@@ -9080,7 +9080,7 @@ Rank,Name,Year,Global_Sales
 9080,NCAA College Basketball 2K3,2002,0.14
 9081,Class of Heroes,2008,0.14
 9082,Yogi Bear: The Video Game,2010,0.14
-9083,Our House Party!,00,0.14
+9083,Our House Party! ,2002,0.14
 9084,The Legend of Heroes II: Prophecy of the Moonlight Witch,2004,0.14
 9085,Cranium Kabookii,2007,0.14
 9086,Hero's Saga Laevatein Tactics,2008,0.14
@@ -9150,7 +9150,7 @@ Rank,Name,Year,Global_Sales
 9150,The Granstream Saga,1997,0.14
 9151,Scene It? Bright Lights! Big Screen!,2009,0.14
 9152,Holy Invasion of Privacy Badman! What Did I Do to Deserve This?,2007,0.14
-9153,WCW Backstage Assault,00,0.14
+9153,WCW Backstage Assault ,2002,0.14
 9154,Micro Machines 64 Turbo,1999,0.14
 9155,Bassmasters 2000,1999,0.14
 9156,Baldur's Gate: Dark Alliance,2002,0.14
@@ -9170,7 +9170,7 @@ Rank,Name,Year,Global_Sales
 9170,Heroes over Europe,2009,0.14
 9171,The Bombing Islands,1997,0.14
 9172,Earth Defense Force 2: Invaders from Planet Space,2011,0.14
-9173,Bejeweled 3,00,0.14
+9173,Bejeweled 3 ,2002,0.14
 9174,Monster Jam,2007,0.14
 9175,Robots,2005,0.14
 9176,Gyakuten Saiban 2,2002,0.14
@@ -9250,7 +9250,7 @@ Rank,Name,Year,Global_Sales
 9250,The Amazing Race,2010,0.14
 9251,Alvin and the Chipmunks,2007,0.14
 9252,Far Cry: Primal,2016,0.14
-9253,Bejeweled 3,00,0.14
+9253,Bejeweled 3 ,2002,0.14
 9254,Need for Speed Underground 2,2005,0.14
 9255,Dead Rising 2,2010,0.14
 9256,Let's Cheer,2011,0.14
@@ -9309,7 +9309,7 @@ Rank,Name,Year,Global_Sales
 9309,World Championship Poker 2: Featuring Howard Lederer,2005,0.14
 9310,Mary-Kate and Ashley: Crush Course,2001,0.14
 9311,NHL Breakaway 98,1996,0.14
-9312,Disney's Cinderella: Magical Dreams,00,0.14
+9312,Disney's Cinderella: Magical Dreams ,2002,0.14
 9313,Top Shot Arcade,2011,0.14
 9314,Imagine: Fashion Stylist,2010,0.14
 9315,Pro Evolution Soccer 2015,2014,0.14
@@ -9391,7 +9391,7 @@ Rank,Name,Year,Global_Sales
 9391,James Bond 007: Legends,2012,0.13
 9392,Rogue Ops,2003,0.13
 9393,NBA Hoopz,2001,0.13
-9394,Transworld Surf,00,0.13
+9394,Transworld Surf ,2002,0.13
 9395,Rugby 15,2015,0.13
 9396,MLB 11: The Show,2011,0.13
 9397,Castrol Honda Superbike Racing,1998,0.13
@@ -9474,7 +9474,7 @@ Rank,Name,Year,Global_Sales
 9474,Shrek Smash n' Crash Racing,2006,0.13
 9475,Under Night In-Birth,2014,0.13
 9476,Drakengard 2,2005,0.13
-9477,Street Fighter IV,00,0.13
+9477,Street Fighter IV ,2002,0.13
 9478,Grand Knights History,2011,0.13
 9479,Harvest Moon DS (jp sales),2005,0.13
 9480,Summon Night: Twin Age,2007,0.13
@@ -9521,7 +9521,7 @@ Rank,Name,Year,Global_Sales
 9521,Spider-Man: Battle for New York,2006,0.13
 9522,Imagine: Fashion Designer,2011,0.13
 9523,Pop'n Music Portable,2010,0.13
-9524,Nintendo Puzzle Collection,00,0.13
+9524,Nintendo Puzzle Collection ,2002,0.13
 9525,Borderlands: Double Game Add-On Pack,2010,0.13
 9526,Otogi: Myth of Demons,2002,0.13
 9527,The Price is Right 2010 Edition,2009,0.13
@@ -9666,7 +9666,7 @@ Rank,Name,Year,Global_Sales
 9666,Marvel Avengers: Battle for Earth,2012,0.12
 9667,Disney's Atlantis: The Lost Empire,2001,0.12
 9668,Nippon Daihyou Team no Kantoku ni Narou! Sekaihatsu Soccer RPG,1998,0.12
-9669,Charm Girls Club: My Fashion Mall,00,0.12
+9669,Charm Girls Club: My Fashion Mall ,2002,0.12
 9670,Where the Wild Things Are,2009,0.12
 9671,High Velocity: Mountain Racing Challenge,1995,0.12
 9672,NHL 2K7,2006,0.12
@@ -9691,7 +9691,7 @@ Rank,Name,Year,Global_Sales
 9691,Obscure: The Aftermath,2008,0.12
 9692,Galidor: Defenders of the Outer Dimension,2002,0.12
 9693,Tom Clancy's Splinter Cell Trilogy,2011,0.12
-9694,WRC: FIA World Rally Championship,00,0.12
+9694,WRC: FIA World Rally Championship ,2002,0.12
 9695,Fire ProWrestling S: 6Men Scramble,1996,0.12
 9696,Blackwater,2011,0.12
 9697,Pryzm Chapter One: The Dark Unicorn,2002,0.12
@@ -9741,14 +9741,14 @@ Rank,Name,Year,Global_Sales
 9741,Madden NFL 06,2005,0.12
 9742,Escape The Museum,2009,0.12
 9743,Fuse (Insomniac),2013,0.12
-9744,Record of Agarest War Zero,00,0.12
+9744,Record of Agarest War Zero ,2002,0.12
 9745,Lunar: Dragon Song,2005,0.12
 9746,Break 'Em All,2005,0.12
 9747,WWE SmackDown vs Raw 2008,2007,0.12
 9748,MotoGP 14,2014,0.12
 9749,Cars 2,2011,0.12
 9750,Major League Baseball 2K8 Fantasy All-Stars,2008,0.12
-9751,Super Robot Wars OG Saga: Masou Kishin II - Revelation of Evil God,00,0.12
+9751,Super Robot Wars OG Saga: Masou Kishin II - Revelation of Evil God ,2002,0.12
 9752,Mobile Suit Gundam Seed: Rengou vs. Z.A.F.T. Portable,2007,0.12
 9753,San Goku Shi V,1996,0.12
 9754,Puzzle Kingdoms,2009,0.12
@@ -9768,7 +9768,7 @@ Rank,Name,Year,Global_Sales
 9768,Chase: Hollywood Stunt Driver,2002,0.12
 9769,The X Files: Resist or Serve,2004,0.12
 9770,Mobile Suit Gundam Side Story: Missing Link,2014,0.12
-9771,Saru! Get You! Million Monkeys,00,0.12
+9771,Saru! Get You! Million Monkeys ,2002,0.12
 9772,Curious George,2006,0.12
 9773,Crush3D,2012,0.12
 9774,Zathura,2005,0.12
@@ -9814,13 +9814,13 @@ Rank,Name,Year,Global_Sales
 9814,My Farm Around the World,2008,0.12
 9815,Fat Princess: Fistful of Cake,2010,0.12
 9816,Zubo,2008,0.12
-9817,Street Hoops,00,0.12
+9817,Street Hoops ,2002,0.12
 9818,NFL QB Club 2001,2000,0.12
 9819,Earthworm Jim 3D,1999,0.12
 9820,Rocket: Robot on Wheels,1999,0.12
 9821,Densha De Go! 64,1999,0.12
-9822,Godzilla: Destroy All Monsters Melee,00,0.12
-9823,The Daring Game for Girls,00,0.12
+9822,Godzilla: Destroy All Monsters Melee ,2002,0.12
+9823,The Daring Game for Girls ,2002,0.12
 9824,Conception II: Children of the Seven Stars,2013,0.12
 9825,Animal Genius,2007,0.12
 9826,Sega Soccer Slam,2002,0.12
@@ -9839,7 +9839,7 @@ Rank,Name,Year,Global_Sales
 9839,Gungnir: Mayari no Gunshin to Eiyuu Sensou,2011,0.12
 9840,Dodge Racing: Charger vs Challenger,2009,0.12
 9841,Fate/Extra CCC,2013,0.12
-9842,Rocksmith,00,0.12
+9842,Rocksmith ,2002,0.12
 9843,MTV Sports: Pure Ride,2000,0.12
 9844,Sonic Adventure 2,2001,0.12
 9845,Burning Road,1996,0.12
@@ -9867,7 +9867,7 @@ Rank,Name,Year,Global_Sales
 9867,Medarot 4: Kabuto / Kuwagata Version,2001,0.12
 9868,Backyard Sports Football: Rookie Rush,2010,0.12
 9869,Sacred 3,2014,0.12
-9870,Major League Baseball 2K6,00,0.12
+9870,Major League Baseball 2K6 ,2002,0.12
 9871,Vacation Isle: Beach Party,2010,0.12
 9872,Fit in Six,2011,0.12
 9873,Mahou Shoujo Lyrical Nanoha A's Portable: The Battle of Aces,2010,0.12
@@ -9980,7 +9980,7 @@ Rank,Name,Year,Global_Sales
 9980,Sengoku Cyber: Fujimaru Jigokuhen,1995,0.12
 9981,Hisshou Pachinko*Pachi-Slot Kouryaku Series Vol.10: CR Shinseiki Evangelion: Kiseki no Kachi,2007,0.12
 9982,ASH: Archaic Sealed Heat,2007,0.12
-9983,Happy Feet Two,00,0.12
+9983,Happy Feet Two ,2002,0.12
 9984,Brunswick Pro Bowling,2011,0.12
 9985,Fantastic Four: Rise of the Silver Surfer,2007,0.12
 9986,Dorabase 2: Nettou Ultra Stadium,2009,0.12
@@ -10044,7 +10044,7 @@ Rank,Name,Year,Global_Sales
 10044,Tom Clancy's Rainbow Six: Rogue Spear,2002,0.11
 10045,BoomBots,1999,0.11
 10046,Monster Madness: Battle for Suburbia,2007,0.11
-10047,Star Trek: Conquest,00,0.11
+10047,Star Trek: Conquest ,2002,0.11
 10048,FIFA Soccer 06,2005,0.11
 10049,Life is Strange,2016,0.11
 10050,NFL Head Coach 09,2008,0.11
@@ -10271,7 +10271,7 @@ Rank,Name,Year,Global_Sales
 10271,The Scorpion King: Rise of the Akkadian,2002,0.11
 10272,Backyard Baseball '10,2009,0.11
 10273,Transformers: Beast Wars Transmetals,2000,0.11
-10274,GiFTPiA,00,0.11
+10274,GiFTPiA ,2002,0.11
 10275,Animal Planet: Vet Life,2009,0.11
 10276,My Little Sister Can't Be This Cute Portable,2012,0.11
 10277,Silly Bandz: Play The Craze,2010,0.11
@@ -10361,7 +10361,7 @@ Rank,Name,Year,Global_Sales
 10361,Metal Gear Solid Integral,1999,0.11
 10362,Naruto Shippuden 3D: The New Era,2011,0.11
 10363,FIFA World Cup Germany 2006,2006,0.11
-10364,Disney's Chicken Little: Ace In Action,00,0.11
+10364,Disney's Chicken Little: Ace In Action ,2002,0.11
 10365,Lego Star Wars: The Force Awakens,2016,0.11
 10366,Reign of Fire,2002,0.11
 10367,Rock Band Track Pack: Classic Rock,2009,0.11
@@ -10464,7 +10464,7 @@ Rank,Name,Year,Global_Sales
 10464,The Whispered World,2009,0.1
 10465,Tom Clancy's Splinter Cell: Chaos Theory,2005,0.1
 10466,Learn Chess,2009,0.1
-10467,Happy Feet Two,00,0.1
+10467,Happy Feet Two ,2002,0.1
 10468,Escape From Monkey Island,2001,0.1
 10469,Leisure Suit Larry: Box Office Bust,2009,0.1
 10470,The Wolf Among Us,2014,0.1
@@ -10493,7 +10493,7 @@ Rank,Name,Year,Global_Sales
 10493,Syberia,2003,0.1
 10494,G1 Jockey 3,2002,0.1
 10495,Shrek: Forever After,2010,0.1
-10496,Atsumare! Power Pro Kun no DS Koushien,00,0.1
+10496,Atsumare! Power Pro Kun no DS Koushien ,2002,0.1
 10497,Revolution X,1995,0.1
 10498,Myst,2007,0.1
 10499,Little Battlers eXperience W,2013,0.1
@@ -10558,7 +10558,7 @@ Rank,Name,Year,Global_Sales
 10558,Pro Evolution Soccer 2016,2015,0.1
 10559,Dark Summit,2001,0.1
 10560,Penguin no Mondai: The World,2010,0.1
-10561,My Healthy Cooking Coach,00,0.1
+10561,My Healthy Cooking Coach ,2002,0.1
 10562,Yaiba: Ninja Gaiden Z,2014,0.1
 10563,Flushed Away,2006,0.1
 10564,Surf's Up,2007,0.1
@@ -10689,7 +10689,7 @@ Rank,Name,Year,Global_Sales
 10689,Generator Rex: Agent of Providence,2011,0.1
 10690,Petz Hamsterz Superstarz,2009,0.1
 10691,NeverDead,2012,0.1
-10692,Happy Feet Two,00,0.1
+10692,Happy Feet Two ,2002,0.1
 10693,Age of Empires II: The Age of Kings,1999,0.1
 10694,Warhammer 40 000: Dawn of War II - Chaos Rising,2010,0.1
 10695,Predator: Concrete Jungle,2005,0.1
@@ -10757,7 +10757,7 @@ Rank,Name,Year,Global_Sales
 10757,Virtual Pro Wrestling,1996,0.1
 10758,Wasteland 2,2015,0.1
 10759,Shadow Tower,1998,0.1
-10760,Luminous Arc 2 (JP sales),00,0.1
+10760,Luminous Arc 2 (JP sales) ,2002,0.1
 10761,Ninja Reflex,2008,0.1
 10762,Dragon Ball: Evolution,2009,0.1
 10763,Red Bull BC One,2008,0.1
@@ -10791,7 +10791,7 @@ Rank,Name,Year,Global_Sales
 10791,Ballistic: Ecks vs. Sever,2002,0.1
 10792,Jikkyou Powerful Pro Yakyuu 11,2004,0.1
 10793,Steel Battalion,2002,0.1
-10794,The Daring Game for Girls,00,0.1
+10794,The Daring Game for Girls ,2002,0.1
 10795,Glory Days 2,2007,0.1
 10796,Johnny Bravo in The Hukka-Mega-Mighty-Ultra-Extreme Date-O-Rama,2009,0.1
 10797,Street Fighter Collection,1997,0.1
@@ -10828,7 +10828,7 @@ Rank,Name,Year,Global_Sales
 10828,SeaWorld Adventure Parks: Shamu's Deep Sea Adventure,2005,0.09
 10829,Taiko no Tatsujin: Don Don! Mystery Adventure,2016,0.09
 10830,Winning Post 6,2003,0.09
-10831,Egg Monster Hero,00,0.09
+10831,Egg Monster Hero ,2002,0.09
 10832,Rock Band Country Track Pack 2,2011,0.09
 10833,Darkest of Days,2009,0.09
 10834,Whacked!,2002,0.09
@@ -10978,7 +10978,7 @@ Rank,Name,Year,Global_Sales
 10978,Agassi Tennis Generation,2003,0.09
 10979,Young Justice: Legacy,2013,0.09
 10980,Metal Slug X,2001,0.09
-10981,Samurai Shodown Anthology,00,0.09
+10981,Samurai Shodown Anthology ,2002,0.09
 10982,Space Invaders Extreme,2008,0.09
 10983,Driver: Renegade,2011,0.09
 10984,Running Wild,1997,0.09
@@ -10996,7 +10996,7 @@ Rank,Name,Year,Global_Sales
 10996,Beaterator,2009,0.09
 10997,Skies of Arcadia,2000,0.09
 10998,NASCAR: Dirt to Daytona,2002,0.09
-10999,Demon Chaos,00,0.09
+10999,Demon Chaos ,2002,0.09
 11000,Challenge Me: Brain Puzzles 2,2010,0.09
 11001,Cake Mania: Main Street,2011,0.09
 11002,Road Trip,2002,0.09
@@ -11075,7 +11075,7 @@ Rank,Name,Year,Global_Sales
 11075,Mugen Keitai Disgaea,2007,0.09
 11076,Scrabble,2009,0.09
 11077,Samurai Warriors 4: Empires,2015,0.09
-11078,Action Man-Operation Extreme,00,0.09
+11078,Action Man-Operation Extreme ,1999,0.09
 11079,Blazblue: Continuum Shift Extend,2011,0.09
 11080,Tornado Outbreak,2009,0.09
 11081,Mystic Heroes,2002,0.09
@@ -11107,7 +11107,7 @@ Rank,Name,Year,Global_Sales
 11107,Game Hits!,2010,0.09
 11108,Bakugan: Rise of the Resistance,2011,0.09
 11109,Thomas & Friends: Hero of the Rails,2010,0.09
-11110,Super Puzzle Fighter II,00,0.09
+11110,Super Puzzle Fighter II ,1999,0.09
 11111,The Mummy: Tomb of the Dragon Emperor,2008,0.09
 11112,Battle Stadium D.O.N,2006,0.09
 11113,Deadliest Catch: Sea of Chaos,2010,0.09
@@ -11141,7 +11141,7 @@ Rank,Name,Year,Global_Sales
 11141,Mahjong Cub3D,2011,0.09
 11142,F1 2016 (Codemasters),2016,0.09
 11143,Major League Baseball 2K12,2012,0.09
-11144,Happy Feet Two,00,0.09
+11144,Happy Feet Two ,1999,0.09
 11145,Viewtiful Joe: Red Hot Rumble,2006,0.09
 11146,The Ant Bully,2006,0.09
 11147,MLB 2K9 Fantasy All-Stars,2009,0.09
@@ -11322,7 +11322,7 @@ Rank,Name,Year,Global_Sales
 11322,Sports Collection,2010,0.08
 11323,Konami Classics Vol. 1,2009,0.08
 11324,Pac-Man Power Pack,2008,0.08
-11325,Charm Girls Club: My Fashion Show,00,0.08
+11325,Charm Girls Club: My Fashion Show ,1999,0.08
 11326,Disney's Donald Duck: Goin' Quackers,2000,0.08
 11327,Ultimate Brain Games,2003,0.08
 11328,NHL 2K7,2006,0.08
@@ -11330,7 +11330,7 @@ Rank,Name,Year,Global_Sales
 11330,Armorines: Project S.W.A.R.M.,2000,0.08
 11331,Gundam Seed: Battle Assault,2004,0.08
 11332,Chibi Maruko-Chan: Harikiri 365-Nichi no Maki,1991,0.08
-11333,Get Fit with Mel B,00,0.08
+11333,Get Fit with Mel B ,1999,0.08
 11334,SaGa 3: Jikuu no Hasha - Shadow or Light,2011,0.08
 11335,Miami Nights: Singles in the City,2008,0.08
 11336,Phantom Brave: The Hermuda Triangle,2010,0.08
@@ -11375,7 +11375,7 @@ Rank,Name,Year,Global_Sales
 11375,Super Monkey Ball Adventure,2006,0.08
 11376,Zatch Bell! Mamodo Battles,2005,0.08
 11377,Dream Day: Wedding Destinations,2009,0.08
-11378,Face Racers: Photo Finish,00,0.08
+11378,Face Racers: Photo Finish ,1999,0.08
 11379,Bejeweled 3,2010,0.08
 11380,Iron Man / X-O Manowar in Heavy Metal,1996,0.08
 11381,Derby Stallion 98,1998,0.08
@@ -11408,7 +11408,7 @@ Rank,Name,Year,Global_Sales
 11408,Crush,2007,0.08
 11409,I Am In The Movie,2012,0.08
 11410,Fatal Frame III: The Tormented,2005,0.08
-11411,Zero: Tsukihami no Kamen,00,0.08
+11411,Zero: Tsukihami no Kamen ,1999,0.08
 11412,Ice Age 2: The Meltdown,2006,0.08
 11413,Seven Samurai 20XX,2004,0.08
 11414,10 Minute Solution,2010,0.08
@@ -11454,7 +11454,7 @@ Rank,Name,Year,Global_Sales
 11454,Pac-Man and the Ghostly Adventures 2,2014,0.08
 11455,Final Fantasy VI,1999,0.08
 11456,Horrid Henry's Horrid Adventure,2010,0.08
-11457,The Hidden,00,0.08
+11457,The Hidden ,1999,0.08
 11458,Jikkyou Powerful Major League 2009,2009,0.08
 11459,Princess in Love,2009,0.08
 11460,The Legend of Alon D'ar,2001,0.08
@@ -11542,7 +11542,7 @@ Rank,Name,Year,Global_Sales
 11542,Looney Tunes: Galactic Sports,2015,0.08
 11543,Yuu Yuu Hakusho: Makyo Toitsusen,1994,0.08
 11544,The First Templar,2011,0.08
-11545,Rock Revolution,00,0.08
+11545,Rock Revolution ,1999,0.08
 11546,Ogre Battle Series: Tactics Ogre,1997,0.08
 11547,Little League World Series Baseball 2010,2010,0.08
 11548,Wordfish,2008,0.08
@@ -11572,7 +11572,7 @@ Rank,Name,Year,Global_Sales
 11572,Need For Speed: Undercover,2008,0.08
 11573,Dreamer Series: Shop Owner,2009,0.08
 11574,Evolution Worlds,2002,0.08
-11575,Dead Island: Riptide,00,0.08
+11575,Dead Island: Riptide ,1999,0.08
 11576,Sherlock Holmes: Crimes & Punishments,2014,0.08
 11577,Drama Queens,2009,0.08
 11578,Motto! Stitch! DS Rhythm de Rakugaki Daisakusen,2010,0.08
@@ -11754,7 +11754,7 @@ Rank,Name,Year,Global_Sales
 11754,Hakuouki DS,2010,0.07
 11755,Buster Bros. Collection,1997,0.07
 11756,Sony Computer Science Kenkyuujo Mogi Kenichirou Hakase Kanshuu: Nou ni Kaikan Aha Taiken!,2006,0.07
-11757,Mega Man Battle Network: Operation Shooting Star,00,0.07
+11757,Mega Man Battle Network: Operation Shooting Star ,1999,0.07
 11758,Futurama,2003,0.07
 11759,Medabots 8,2014,0.07
 11760,The History Channel: Battle for the Pacific,2008,0.07
@@ -11797,7 +11797,7 @@ Rank,Name,Year,Global_Sales
 11797,Hero Bank,2014,0.07
 11798,The Idolm@ster: Live for You!,2008,0.07
 11799,Tokimeki Memorial Girl's Side Premium: 3rd Story,2012,0.07
-11800,Smashing Drive,00,0.07
+11800,Smashing Drive ,1999,0.07
 11801,Mega Man Xtreme,2000,0.07
 11802,ZhuZhu Pets: Quest for Zhu,2011,0.07
 11803,SimCity 4: Deluxe Edition,2003,0.07
@@ -11920,7 +11920,7 @@ Rank,Name,Year,Global_Sales
 11920,NCAA College Football 2K3,2002,0.07
 11921,Monster Rancher Battle Card: Episode II,2000,0.07
 11922,Karaoke Revolution Party,2005,0.07
-11923,Dream Trigger 3D,00,0.07
+11923,Dream Trigger 3D ,1999,0.07
 11924,Make 10: A Journey of Numbers,2007,0.07
 11925,Itoi Shigesato no Bass Tsuri No. 1 Ketteihan!,2000,0.07
 11926,Jumper: Griffin's Story,2008,0.07
@@ -11937,7 +11937,7 @@ Rank,Name,Year,Global_Sales
 11937,Operation Darkness,2007,0.07
 11938,Magi: The Labyrinth of Beginning,2013,0.07
 11939,The Wolf Among Us,2014,0.07
-11940,Tornado,00,0.07
+11940,Tornado ,1999,0.07
 11941,Fantasy Aquarium by DS,2008,0.07
 11942,Hi! Hamtaro - Little Hamsters big Adventures: Ham-Ham Challenge,2005,0.07
 11943,Damnation,2009,0.07
@@ -11975,7 +11975,7 @@ Rank,Name,Year,Global_Sales
 11975,Taz Wanted,2002,0.07
 11976,Harry Potter and the Sorcerer's Stone,2003,0.07
 11977,Shounen Sunday x Shounen Magazine: Nettou! Dream Nine,2009,0.07
-11978,McFarlane's Evil Prophecy,00,0.07
+11978,McFarlane's Evil Prophecy ,1999,0.07
 11979,Emergency 2012,2010,0.07
 11980,Haikyuu!! Tsunage! Itadaki no Keshiki!!,2014,0.07
 11981,Wallace & Gromit in Project Zoo,2003,0.07
@@ -12014,7 +12014,7 @@ Rank,Name,Year,Global_Sales
 12014,Guilty Gear Xrd -Revelator-,2016,0.07
 12015,G-Saviour,2000,0.07
 12016,Gintama DS: Yorozuya Daisoudou,2006,0.07
-12017,Drake of the 99 Dragons,00,0.07
+12017,Drake of the 99 Dragons ,1999,0.07
 12018,Heavenly Guardian,2007,0.07
 12019,Cut the Rope,2014,0.07
 12020,Crayon Shin-Chan: Obaka Daininden - Susume! Kasukabe Ninja Tai!,2010,0.07
@@ -12027,7 +12027,7 @@ Rank,Name,Year,Global_Sales
 12027,AMF Bowling Pinbusters!,2008,0.07
 12028,Operation: Vietnam,2007,0.07
 12029,Alpha and Omega,2010,0.07
-12030,Port Royale 3,00,0.07
+12030,Port Royale 3 ,1999,0.07
 12031,RayStorm,1997,0.07
 12032,Disney's Winnie the Pooh's Rumbly Tumbly Adventure,2005,0.07
 12033,Jake Power: Handyman,2008,0.07
@@ -12126,15 +12126,15 @@ Rank,Name,Year,Global_Sales
 12126,Cartoon Network: Punch Time Explosion XL,2011,0.07
 12127,DefCon 5,1995,0.07
 12128,Lost in Blue 2,2007,0.07
-12129,Build-A-Bear Workshop: Friendship Valley,00,0.07
+12129,Build-A-Bear Workshop: Friendship Valley ,1999,0.07
 12130,Secret Service: Ultimate Sacrifice,2008,0.07
-12131,Alex Rider: Stormbreaker,00,0.07
+12131,Alex Rider: Stormbreaker ,1999,0.07
 12132,Deep Labyrinth,2006,0.07
 12133,Tropix,2008,0.07
 12134,Nichibeikan Pro Yakyuu: Final League,2002,0.07
 12135,Resident Evil 6,2016,0.07
 12136,Hammerin' Hero,2008,0.07
-12137,Yoostar on MTV,00,0.07
+12137,Yoostar on MTV ,1999,0.07
 12138,Spawn: Armageddon,2003,0.07
 12139,God Hand,2006,0.07
 12140,Shin Chan: Las Nuevas Aventuras Para Wii!,2006,0.07
@@ -12183,7 +12183,7 @@ Rank,Name,Year,Global_Sales
 12183,Nobunaga no Yabou: Tendou with Power-Up Kit,2011,0.07
 12184,Transformer: Rise of the Dark Spark,2014,0.07
 12185,MAPLUS: Portable Navi,2006,0.07
-12186,Rayman Arena,00,0.07
+12186,Rayman Arena ,1999,0.07
 12187,Brain Quest: Grades 3 & 4,2008,0.07
 12188,Petz: Hamsterz Bunch,2009,0.07
 12189,The King of Fighters 02/03,2005,0.07
@@ -12211,7 +12211,7 @@ Rank,Name,Year,Global_Sales
 12211,Yoake Yori Ruriiro na: Brighter than Dawning Blue,2006,0.07
 12212,Pandemonium 2,1997,0.07
 12213,MotorStorm RC,2012,0.07
-12214,National Geographic Challenge!,00,0.07
+12214,National Geographic Challenge! ,1999,0.07
 12215,Fallout: Brotherhood of Steel,2004,0.07
 12216,Touch 'N' Play Collection,2010,0.07
 12217,Mayhem 3D,2011,0.07
@@ -12237,7 +12237,7 @@ Rank,Name,Year,Global_Sales
 12237,12-Sai. Honto no Kimochi,2014,0.07
 12238,Warhammer 40 000: Squad Command,2007,0.07
 12239,Hasbro Family Game Night Fun Pack,2011,0.07
-12240,Port Royale 3,00,0.07
+12240,Port Royale 3 ,1999,0.07
 12241,Pro Yaky? Spirits 4,2007,0.07
 12242,Speed Racer,1996,0.07
 12243,NHL Hitz Pro,2003,0.07
@@ -12247,7 +12247,7 @@ Rank,Name,Year,Global_Sales
 12247,Atelier Meruru: Alchemist of Arland 3,2013,0.06
 12248,Hot Wheels: Burnin' Rubber,2001,0.06
 12249,Ojyousama Express,1998,0.06
-12250,Jewel Link Chronicles: Mountains of Madness,00,0.06
+12250,Jewel Link Chronicles: Mountains of Madness ,1999,0.06
 12251,Chrysler Classic Racing,2008,0.06
 12252,Wings of War,2004,0.06
 12253,Jam Sessions 2,2009,0.06
@@ -12486,7 +12486,7 @@ Rank,Name,Year,Global_Sales
 12486,Nazotoki Battle Tore! Densetsu no Makyuu o Fukkatsu Saseyo!,2014,0.06
 12487,Inversion,2012,0.06
 12488,Summon Night 2,2008,0.06
-12489,Chou Soujuu Mecha MG,00,0.06
+12489,Chou Soujuu Mecha MG ,1999,0.06
 12490,Odin Sphere: Leifthrasir,2016,0.06
 12491,Pro Evolution Soccer 2012,2011,0.06
 12492,Terminator 3: The Redemption,2004,0.06
@@ -12516,7 +12516,7 @@ Rank,Name,Year,Global_Sales
 12516,Star Soldier: Vanishing Earth,1998,0.06
 12517,Polaris SnoCross,2000,0.06
 12518,Worms Blast,2002,0.06
-12519,Prinny: Can I Really Be The Hero? (US sales),00,0.06
+12519,Prinny: Can I Really Be The Hero? (US sales) ,1999,0.06
 12520,The Legend of Heroes VII: The Trail of Blue,2014,0.06
 12521,BlazBlue: Chrono Phantasma Extend,2015,0.06
 12522,Smile PreCure! Let's Go! Marchen World,2012,0.06
@@ -12530,7 +12530,7 @@ Rank,Name,Year,Global_Sales
 12530,Foster's Home for Imaginary Friends: Imagination Invaders,2007,0.06
 12531,I Love Beauty: Hollywood Makeover,2009,0.06
 12532,Power Pro Success Legends,2010,0.06
-12533,Combat Elite: WWII Paratroopers,00,0.06
+12533,Combat Elite: WWII Paratroopers ,1999,0.06
 12534,Rock Blast,2008,0.06
 12535,Pheasants Forever Wingshooter,2010,0.06
 12536,Ivy the Kiwi?,2010,0.06
@@ -12625,7 +12625,7 @@ Rank,Name,Year,Global_Sales
 12625,Backyard Skateboarding 2006,2004,0.06
 12626,Tron 2.0: Killer App,2004,0.06
 12627,Steins;Gate: Hiyoku Renri no Darling,2012,0.06
-12628,Captain America: Super Soldier,00,0.06
+12628,Captain America: Super Soldier ,1999,0.06
 12629,Gegege no Kitarou: Youkai Daigekisen,2008,0.06
 12630,Emblem of Gundam,2008,0.06
 12631,The Fast and the Furious,2006,0.06
@@ -12665,7 +12665,7 @@ Rank,Name,Year,Global_Sales
 12665,Cid to Chocobo no Fushigi na Dungeon: Toki Wasure no Meikyuu DS+,2008,0.06
 12666,Vitamin X to Z,2011,0.06
 12667,Fatal Frame,2002,0.06
-12668,Flip's Twisted World,00,0.06
+12668,Flip's Twisted World ,1999,0.06
 12669,Tom Clancy's Ghost Recon: Advanced Warfighter,2006,0.06
 12670,Urban Chaos: Riot Response,2006,0.06
 12671,Generation of Chaos,2005,0.06
@@ -12708,7 +12708,7 @@ Rank,Name,Year,Global_Sales
 12708,Jissen Pachislot Hisshouhou! Hokuto no Ken Portable SE,2006,0.06
 12709,Mayhem 3D,2011,0.06
 12710,G1 Jockey 2,2000,0.06
-12711,Mobile Ops: The One Year War,00,0.06
+12711,Mobile Ops: The One Year War ,1999,0.06
 12712,Constantine,2005,0.06
 12713,Chaos Rings III,2014,0.06
 12714,Tom Clancy's Splinter Cell: Double Agent,2006,0.06
@@ -12748,7 +12748,7 @@ Rank,Name,Year,Global_Sales
 12748,TOCA Race Driver 2: Ultimate Racing Simulator,2004,0.06
 12749,Girls RPG: Cinderellife,2012,0.06
 12750,Dr. Muto,2002,0.06
-12751,Tom Clancy's Rainbow Six: Critical Hour,00,0.06
+12751,Tom Clancy's Rainbow Six: Critical Hour ,1999,0.06
 12752,Gothic 3,2006,0.06
 12753,Tokyo Twilight Ghost Hunters,2014,0.06
 12754,Scrabble Blast!,2005,0.06
@@ -12806,7 +12806,7 @@ Rank,Name,Year,Global_Sales
 12806,V-Rally 3,2002,0.06
 12807,Nobunaga no Yabou: Souzou,2014,0.06
 12808,Whiplash,2003,0.06
-12809,GRID,00,0.06
+12809,GRID ,1999,0.06
 12810,Pro Yakyuu Famista 2011,2011,0.06
 12811,Impact Racing,1996,0.06
 12812,My Horse & Me: Riding for Gold,2008,0.06
@@ -12824,7 +12824,7 @@ Rank,Name,Year,Global_Sales
 12824,Kyoukai Senjou no Horizon Portable,2013,0.05
 12825,4 Elements,2009,0.05
 12826,Shining Force III: Scenario 2,1998,0.05
-12827,Captain America: Super Soldier,00,0.05
+12827,Captain America: Super Soldier ,1999,0.05
 12828,Airline Tycoon 2,2011,0.05
 12829,Worms World Party,2002,0.05
 12830,Medabots: Metabee,2002,0.05
@@ -12878,7 +12878,7 @@ Rank,Name,Year,Global_Sales
 12878,WTA Tour Tennis,2001,0.05
 12879,Bottom of the 9th '99,1998,0.05
 12880,Dynasty Warriors 5,2005,0.05
-12881,Reader Rabbit 2nd Grade,00,0.05
+12881,Reader Rabbit 2nd Grade ,1999,0.05
 12882,Famicom Mini: Dig Dug,2004,0.05
 12883,FIFA Soccer 2003,2002,0.05
 12884,Naval Ops: Commander,2004,0.05
@@ -12914,21 +12914,21 @@ Rank,Name,Year,Global_Sales
 12914,Major League Baseball 2K11,2011,0.05
 12915,Uta no Prince-Sama: Music 3,2016,0.05
 12916,Pretty Cure All Stars Everyone Gather ? Let's Dance!,2013,0.05
-12917,Mountain Bike Adrenaline,00,0.05
+12917,Mountain Bike Adrenaline ,1999,0.05
 12918,New Prince of Tennis: Go to the Top,2015,0.05
 12919,Zyuden Sentai Kyoryuger: Game de Gaburincho!!,2013,0.05
 12920,Nobunaga's Ambition: Sphere of Influence,2014,0.05
 12921,Hi-Octane: The Track Fights Back!,1995,0.05
 12922,Venetica,2009,0.05
 12923,Black Sigil: Blade of the Exiled,2009,0.05
-12924,Tour de France 2011,00,0.05
+12924,Tour de France 2011 ,2010,0.05
 12925,Wakeboarding Unleashed Featuring Shaun Murray,2003,0.05
 12926,TrackMania Turbo: Build to Race,2010,0.05
 12927,ZombiU,2016,0.05
 12928,Domino Rally,2007,0.05
 12929,Doraemon 2: Nobita no Toizurando Daibouken,1993,0.05
 12930,Samurai Champloo: Sidetracked,2006,0.05
-12931,Drill Dozer,00,0.05
+12931,Drill Dozer ,2010,0.05
 12932,Teenage Mutant Ninja Turtles: Mutants in Manhattan,2016,0.05
 12933,Katekyoo Hitman Reborn! DS: Shinuki Max! Vongola Carnival!!,2007,0.05
 12934,Utawarerumono: Futari no Hakuoro,2016,0.05
@@ -13054,7 +13054,7 @@ Rank,Name,Year,Global_Sales
 13054,Summon Night X: Tears Crown,2009,0.05
 13055,Secret Files: Tunguska,2008,0.05
 13056,Taiho Shichauzo!,2001,0.05
-13057,Battle vs. Chess,00,0.05
+13057,Battle vs. Chess ,2010,0.05
 13058,Phantom Crash,2002,0.05
 13059,Men of War: Assault Squad,2011,0.05
 13060,Fishdom,2011,0.05
@@ -13155,7 +13155,7 @@ Rank,Name,Year,Global_Sales
 13155,Assassin's Creed: Altair's Chronicles,2008,0.05
 13156,Pirates vs Ninja Dodgeball,2009,0.05
 13157,Guild 01,2012,0.05
-13158,The History Channel: Great Battles - Medieval,00,0.05
+13158,The History Channel: Great Battles - Medieval ,2010,0.05
 13159,Nike+ Kinect Training,2012,0.05
 13160,Durarara!! 3-way Standoff,2010,0.05
 13161,Ty the Tasmanian Tiger 3: Night of the Quinkan,2005,0.05
@@ -13277,7 +13277,7 @@ Rank,Name,Year,Global_Sales
 13277,Amnesia Crowd,2013,0.05
 13278,American Chopper 2: Full Throttle,2005,0.05
 13279,Pachitte Chonmage Tatsujin 15: Pachinko Fuyu no Sonata 2,2008,0.05
-13280,Monster Hunter Frontier Online,00,0.05
+13280,Monster Hunter Frontier Online ,2010,0.05
 13281,Ribbit King,2003,0.05
 13282,VR Soccer '96,1996,0.05
 13283,Smash Court Tennis 3,2007,0.05
@@ -13476,7 +13476,7 @@ Rank,Name,Year,Global_Sales
 13476,Millipede / Super Breakout / Lunar Lander,2005,0.04
 13477,World Trigger: Borderless Mission,2015,0.04
 13478,Disney's Donald Duck: Goin' Quackers,2002,0.04
-13479,RollerCoaster Tycoon,00,0.04
+13479,RollerCoaster Tycoon ,2010,0.04
 13480,Assault Rigs,1996,0.04
 13481,Backyard Baseball '09,2008,0.04
 13482,World Championship Spelling,2010,0.04
@@ -13664,17 +13664,17 @@ Rank,Name,Year,Global_Sales
 13664,Virtua Tennis 4,2011,0.04
 13665,Mortimer Beckett and the Secrets of Spooky Manor,2008,0.04
 13666,Farm Frenzy 3,2009,0.04
-13667,GRID,00,0.04
+13667,GRID ,2010,0.04
 13668,Little Busters! Converted Edition,2010,0.04
 13669,Unison: Rebels of Rhythm & Dance,2000,0.04
 13670,Ferrari Challenge Trofeo Pirelli,2008,0.04
 13671,WTF: Work Time Fun,2005,0.04
 13672,Tennis no Oji-Sama: DokiDoki Survival - Umibe no Secret,2007,0.04
 13673,Major League Baseball 2K12,2012,0.04
-13674,B.L.U.E.: Legend of Water,00,0.04
+13674,B.L.U.E.: Legend of Water ,2010,0.04
 13675,Dark Half,1996,0.04
 13676,System 3 presents Ferrari Challenge Trofeo Pirelli,2008,0.04
-13677,Luxor: Pharaoh's Challenge,00,0.04
+13677,Luxor: Pharaoh's Challenge ,2010,0.04
 13678,Nitroplus Blasterz: Heroines Infinite Duel,2015,0.04
 13679,Imperial Glory,2005,0.04
 13680,Lionel Trains: On Track,2006,0.04
@@ -13732,7 +13732,7 @@ Rank,Name,Year,Global_Sales
 13732,GoGo's Crazy Bones,2012,0.04
 13733,MLB 2K12 / NBA 2K12 Combo Pack,2012,0.04
 13734,Grand Theft Auto: Vice City,2003,0.04
-13735,NHL Hitz Pro,00,0.04
+13735,NHL Hitz Pro ,2010,0.04
 13736,Ookami Kakushi,2009,0.04
 13737,Zen-Nippon GT Senshuken,1995,0.04
 13738,North American Hunting Extravaganza 2,2010,0.04
@@ -13869,7 +13869,7 @@ Rank,Name,Year,Global_Sales
 13869,Paddington: Adventures in London,2015,0.04
 13870,Nobunaga's Ambition: Sphere of Influence - Sengoku Risshiden,2016,0.04
 13871,Caesar IV,2006,0.04
-13872,Sega Rally 2006,00,0.04
+13872,Sega Rally 2006 ,2010,0.04
 13873,Song of the Deep,2016,0.04
 13874,I'm A Celebrity: Get Me Out of Here!,2009,0.04
 13875,Gundam Battle Online,2001,0.04
@@ -13961,7 +13961,7 @@ Rank,Name,Year,Global_Sales
 13961,Cy Girls,2004,0.04
 13962,The Sum of All Fears,2002,0.04
 13963,Da Capo I & II Plus Situation Portable,2010,0.04
-13964,World of Tanks,00,0.04
+13964,World of Tanks ,2010,0.04
 13965,Hisshou Pachinko*Pachi-Slot Kouryaku Series DS Vol. 5: Shinseiki Evangelion - Tamashii no Kiseki,2010,0.04
 13966,Bubble Bobble Double Shot,2007,0.04
 13967,Minority Report: Everybody Runs,2002,0.04
@@ -14045,7 +14045,7 @@ Rank,Name,Year,Global_Sales
 14045,Hot Potato!,2001,0.04
 14046,Barbie and Her Sisters Puppy Rescue,2015,0.04
 14047,Kiniro no Corda 2 f,2009,0.04
-14048,Swords,00,0.04
+14048,Swords ,2010,0.04
 14049,Winter Sports 3: The Great Tournament,2010,0.04
 14050,Deception III: Dark Delusion,1999,0.04
 14051,Gothic Universe,2007,0.04
@@ -14054,8 +14054,8 @@ Rank,Name,Year,Global_Sales
 14054,Penguins of Madagascar,2014,0.04
 14055,Nobunaga's Ambition II,2015,0.04
 14056,DarkStar One,2006,0.04
-14057,Half-Minute Hero 2,00,0.04
-14058,Clockwork Empires,00,0.04
+14057,Half-Minute Hero 2 ,2010,0.04
+14058,Clockwork Empires ,2010,0.04
 14059,Monster Kingdom: Jewel Summoner,2006,0.04
 14060,Cook Wars,2009,0.04
 14061,Kuroshitsuji: Phantom & Ghost,2009,0.04
@@ -14086,7 +14086,7 @@ Rank,Name,Year,Global_Sales
 14086,The Cursed Crusade,2011,0.04
 14087,Harukanaru Toki no Naka de: Maihitoyo,2006,0.04
 14088,Painkiller: Hell Wars,2006,0.04
-14089,Housekeeping,00,0.04
+14089,Housekeeping ,2010,0.04
 14090,FunkMaster Flex's Digital Hitz Factory,2003,0.04
 14091,Star Wars Jedi Knight: Jedi Academy,2003,0.04
 14092,Greg Hastings Paintball 2,2010,0.04
@@ -14097,7 +14097,7 @@ Rank,Name,Year,Global_Sales
 14097,Might & Magic X: Legacy,2014,0.04
 14098,Detective Conan: Prelude from the Past,2012,0.04
 14099,Luminous Arc 3,2009,0.04
-14100,Major League Baseball 2K8,00,0.03
+14100,Major League Baseball 2K8 ,2010,0.03
 14101,FabStyle,2011,0.03
 14102,Rebel Raiders: Operation Nighthawk,2006,0.03
 14103,Turbo: Super Stunt Squad,2013,0.03
@@ -14159,7 +14159,7 @@ Rank,Name,Year,Global_Sales
 14159,Simple DS Series Vol. 8: The Kanshikikan - Kinkyuu Shutsudou!! Jiken Genba wo Touch Seyo,2006,0.03
 14160,Harukanaru Toki no Naka de Yumenoukihashi Special,2009,0.03
 14161,Rise of Nations: Rise of Legends,2006,0.03
-14162,Sabre Wulf,00,0.03
+14162,Sabre Wulf ,2010,0.03
 14163,Tsuyo Kiss: Mighty Heart,2006,0.03
 14164,Zoo Tycoon,2001,0.03
 14165,Gacharoku,2002,0.03
@@ -14272,7 +14272,7 @@ Rank,Name,Year,Global_Sales
 14273,Winning Post World,2009,0.03
 14274,Jig-A-Pix: Wild World,2009,0.03
 14275,Best Friends Tonight,2010,0.03
-14276,Beyond the Labyrinth,00,0.03
+14276,Beyond the Labyrinth ,2010,0.03
 14277,Living Legends: Frozen Beauty,2014,0.03
 14278,Super Hero Generation,2014,0.03
 14279,.hack: Sekai no Mukou ni + Versus,2012,0.03
@@ -14295,7 +14295,7 @@ Rank,Name,Year,Global_Sales
 14296,Foto Showdown,2010,0.03
 14297,Custom Beat Battle: Draglade 2,2008,0.03
 14298,Gotouchi Kenkei DS,2006,0.03
-14299,Bikkuriman Daijiten,00,0.03
+14299,Bikkuriman Daijiten ,2010,0.03
 14300,Accel World: Ginyoku no Kakusei,2012,0.03
 14301,Elf Bowling 1 & 2,2005,0.03
 14302,Men of War,2009,0.03
@@ -14311,7 +14311,7 @@ Rank,Name,Year,Global_Sales
 14312,Captain Morgane and the Golden Turtle,2012,0.03
 14313,Sekai no Hate Made Itte Q! Chinjuu Hunter Mono no Daibouken,2010,0.03
 14314,Silverlicious,2012,0.03
-14315,Majesty 2: The Fantasy Kingdom Sim,00,0.03
+14315,Majesty 2: The Fantasy Kingdom Sim ,2010,0.03
 14316,Gakusen Toshi Asterisk Festa: Houka Kenran,2016,0.03
 14317,BeatMania IIDX 14 Gold,2008,0.03
 14318,PopCap Arcade Vol 2,2009,0.03
@@ -14376,7 +14376,7 @@ Rank,Name,Year,Global_Sales
 14377,JoJo's Bizarre Adventure: Eyes of Heaven,2015,0.03
 14378,Hajime no Ippo: The Fighting! (2014),2014,0.03
 14379,Eyeshield 21: Field Saikyou no Senshi Tachi,2007,0.03
-14380,Fullmetal Alchemist: Brotherhood,00,0.03
+14380,Fullmetal Alchemist: Brotherhood ,2010,0.03
 14381,To LoveRu Trouble: Waku Waku! Rinkangakkou-Hen,2008,0.03
 14382,Medabots 9: Metabee / Rokusho,2015,0.03
 14383,Doodle Hex,2008,0.03
@@ -14472,7 +14472,7 @@ Rank,Name,Year,Global_Sales
 14473,Great Edo Blacksmith,2014,0.03
 14474,Armored Core SL: Silent Line Portable,2009,0.03
 14475,Gotouchi Tetsudou: Gotouchi Chara to Nihon Zenkoku no Tabi,2014,0.03
-14476,Combat Elite: WWII Paratroopers,00,0.03
+14476,Combat Elite: WWII Paratroopers ,2010,0.03
 14477,To LoveRu Trouble: Doki Doki! Rinkaigakkou-Hen,2008,0.03
 14478,Lethal Enforcers I & II,1996,0.03
 14479,Klonoa 2: Dream Champ Tournament,2002,0.03
@@ -14521,7 +14521,7 @@ Rank,Name,Year,Global_Sales
 14522,Petz: Dolphinz Encounter,2009,0.03
 14523,Star Trek: Tactical Assault,2006,0.03
 14524,Katekyoo Hitman Reborn! DS: Ore ga Boss! Saikyou Family Taisen,2009,0.03
-14525,Samurai Spirits: Tenkaichi Kenkakuden,00,0.03
+14525,Samurai Spirits: Tenkaichi Kenkakuden ,2010,0.03
 14526,Robo Pit,1995,0.03
 14527,Emily Archer and the Curse of Tutankhamun,2011,0.03
 14528,Story Hour: Adventures,2008,0.03
@@ -14582,7 +14582,7 @@ Rank,Name,Year,Global_Sales
 14583,NatGeo Challenge! Wild Life,2010,0.03
 14584,Higurashi no Naku Koro ni Iki,2015,0.03
 14585,HappinessCharge PreCure! Kawarun Collection,2014,0.03
-14586,Battle vs. Chess,00,0.03
+14586,Battle vs. Chess ,2010,0.03
 14587,Dream Pinball 3D,2008,0.03
 14588,DICE: DNA Integrated Cybernetic Enterprises,2005,0.03
 14589,Battlefield 1942: The WW II Anthology,2004,0.03
@@ -14675,7 +14675,7 @@ Rank,Name,Year,Global_Sales
 14676,Kaitou Tenshi Twin Angel: Toki to Sekai no Meikyuu,2011,0.03
 14677,Shin Koihime Musou: Otome Ryouran * Sangokushi Engi - Wu-Hen,2010,0.03
 14678,Harukanaru Toki no Naka de 5: Kazahanaki,2012,0.03
-14679,Tom and Jerry in War of the Whiskers,00,0.03
+14679,Tom and Jerry in War of the Whiskers ,2010,0.03
 14680,Nobunaga no Yabou DS 2,2008,0.03
 14681,The IdolM@ster: Gravure For You! Vol. 6,2012,0.03
 14682,Schlag den Raab,2010,0.03
@@ -14695,7 +14695,7 @@ Rank,Name,Year,Global_Sales
 14696,Biohazard: Revival Selection,2011,0.03
 14697,Labyrinth Cross Blood: Infinity,2013,0.03
 14698,Prince of Persia (2008),2008,0.03
-14699,Super Duper Sumos,00,0.03
+14699,Super Duper Sumos ,2010,0.03
 14700,HotBrain,2007,0.03
 14701,UK Truck Simulator,2010,0.03
 14702,Gudetama: Hanjuku de Tanomuwa,2015,0.03
@@ -14848,13 +14848,13 @@ Rank,Name,Year,Global_Sales
 14849,Tokushu Houdoubu,2012,0.03
 14850,Terraria,2016,0.03
 14851,My DoItAll,2009,0.03
-14852,Legacy of Ys: Books I & II,00,0.03
+14852,Legacy of Ys: Books I & II ,2010,0.03
 14853,Shakugan no Shana,2006,0.03
 14854,Monster Mayhem: Build and Battle,2009,0.03
 14855,I Heart Geeks,2011,0.03
 14856,Hokuto no Ken: Hokuto Shinken Denshousha no Michi,2008,0.03
 14857,The Lord of the Rings: Conquest,2009,0.03
-14858,The King of Fighters: Maximum Impact - Maniax,00,0.03
+14858,The King of Fighters: Maximum Impact - Maniax ,2010,0.03
 14859,Wand of Fortune 2: Jikuu ni Shizumu Mokushiroku,2011,0.03
 14860,Little Busters! Converted Edition,2012,0.03
 14861,Hankou Shashin,1996,0.03
@@ -14875,7 +14875,7 @@ Rank,Name,Year,Global_Sales
 14876,Back to the Future: The Game,2015,0.03
 14877,Pitball,1996,0.03
 14878,X-Men Origins: Wolverine - Uncaged Edition,2009,0.03
-14879,Combat Wings: The Great Battles of WWII,00,0.03
+14879,Combat Wings: The Great Battles of WWII ,2010,0.03
 14880,D.C. III: Da Capo III,2013,0.03
 14881,Judge Dredd: Dredd Vs Death,2003,0.03
 14882,Ocean Commander,2009,0.03
@@ -14924,7 +14924,7 @@ Rank,Name,Year,Global_Sales
 14925,Clover no Kuni no Alice: Wonderful Wonder World,2010,0.02
 14926,Room Zoom: Race for Impact,2004,0.02
 14927,Yahari Game Demo Ore no Seishun Love-Kome Hamachi Gatteiru,2013,0.02
-14928,Tube Slider,00,0.02
+14928,Tube Slider ,2010,0.02
 14929,Ghost Pirates of Vooju Island,2009,0.02
 14930,America Oudan Ultra-Quiz,1995,0.02
 14931,DoDonPachi Dai-Oujou: Black Label Extra,2009,0.02
@@ -14941,7 +14941,7 @@ Rank,Name,Year,Global_Sales
 14942,Serious Sam Advance,2004,0.02
 14943,The Settlers: Rise of an Empire,2007,0.02
 14944,Let's Play Garden,2010,0.02
-14945,Umineko no Naku Koro ni San: Shinjitsu to Gensou no Yasoukyoku,00,0.02
+14945,Umineko no Naku Koro ni San: Shinjitsu to Gensou no Yasoukyoku ,2010,0.02
 14946,Pop'n Music 12 Iroha,2006,0.02
 14947,BeatMania IIDX 11: IIDX Red,2006,0.02
 14948,Warhammer Online: Age of Reckoning,2008,0.02
@@ -14996,9 +14996,9 @@ Rank,Name,Year,Global_Sales
 14997,Europa Universalis III Complete,2008,0.02
 14998,Bugriders: The Race of Kings,1997,0.02
 14999,Bust-A-Move,1994,0.02
-15000,Wii de Asobu: Metroid Prime,00,0.02
-15001,Payout Poker & Casino,00,0.02
-15002,Wii de Asobu: Metroid Prime,00,0.02
+15000,Wii de Asobu: Metroid Prime ,2010,0.02
+15001,Payout Poker & Casino ,2010,0.02
+15002,Wii de Asobu: Metroid Prime ,2010,0.02
 15003,Wangan Midnight Portable,2007,0.02
 15004,Cross Ange: Tenshi to Ryuu no Rondo tr.,2015,0.02
 15005,Canvas 2,2006,0.02
@@ -15196,7 +15196,7 @@ Rank,Name,Year,Global_Sales
 15197,Let's Play Flight Attendant,2010,0.02
 15198,Akai Ito DS,2008,0.02
 15199,Knight's Apprentice: Memorick's Adventures,2004,0.02
-15200,Saint,00,0.02
+15200,Saint ,2009,0.02
 15201,Darksiders,2010,0.02
 15202,Natsuiro no Sunadokei,2002,0.02
 15203,Indigo Prophecy,2005,0.02
@@ -15207,7 +15207,7 @@ Rank,Name,Year,Global_Sales
 15208,FIFA Soccer 09,2008,0.02
 15209,The Lord of the Rings: The Battle for Middle-Earth II,2006,0.02
 15210,Ballblazer Champions,1997,0.02
-15211,Steal Princess,00,0.02
+15211,Steal Princess ,2009,0.02
 15212,So Blonde,2008,0.02
 15213,Winter Sports 2011,2011,0.02
 15214,Koisuru Otome to Shugo no Tate: The Shield of AIGIS,2008,0.02
@@ -15260,7 +15260,7 @@ Rank,Name,Year,Global_Sales
 15261,Dakar 2: The World's Ultimate Rally,2003,0.02
 15262,Jelly Belly: Ballistic Beans,2009,0.02
 15263,PopCap Hits!,2011,0.02
-15264,Mario Tennis,00,0.02
+15264,Mario Tennis ,2009,0.02
 15265,Higurashi Daybreak Portable Mega Edition,2009,0.02
 15266,Dragon's Lair,2010,0.02
 15267,Shinken de Watashi ni Koi Shinasai! R,2012,0.02
@@ -15315,7 +15315,7 @@ Rank,Name,Year,Global_Sales
 15316,Puzzle Quest: Challenge of the Warlords,2007,0.02
 15317,Aquanaut's Holiday,1995,0.02
 15318,Negima!? Chou Mahora Taisen Chuu: Checkiin Zenin Shuugou! Yappari Onsen Kichaimashitaa,2007,0.02
-15319,Runaway: A Twist of Fate,00,0.02
+15319,Runaway: A Twist of Fate ,2009,0.02
 15320,Hot 'n' Cold,2009,0.02
 15321,Nisenochigiri,2010,0.02
 15322,Wakeboarding Unleashed Featuring Shaun Murray,2003,0.02
@@ -15475,7 +15475,7 @@ Rank,Name,Year,Global_Sales
 15476,Adidas Power Soccer 98,1998,0.02
 15477,Natsuiro High School: Seishun Hakusho,2015,0.02
 15478,Black Rose Valkyrie,2016,0.02
-15479,Yu-Gi-Oh! 5D's Wheelie Breakers (JP sales),00,0.02
+15479,Yu-Gi-Oh! 5D's Wheelie Breakers (JP sales) ,2009,0.02
 15480,Heroes VS,2013,0.02
 15481,Kazoku Keikaku,2010,0.02
 15482,Sotsugyou II: Neo Generation Special,1995,0.02
@@ -15578,7 +15578,7 @@ Rank,Name,Year,Global_Sales
 15579,Sega Ages 2500 Series Vol. 29: Monster World Complete Collection,2007,0.02
 15580,Bakumatsu Rock: Ultra Soul,2014,0.02
 15581,Metal Fight Beyblade Portable: Chouzetsu Tensei Vulcan Horses,2010,0.02
-15582,Cabela's Alaskan Adventure,00,0.02
+15582,Cabela's Alaskan Adventure ,2009,0.02
 15583,Elf Bowling 1 & 2,2005,0.02
 15584,Niko Puchi Girls Runway,2015,0.02
 15585,MotoGP 14,2014,0.02
@@ -15605,7 +15605,7 @@ Rank,Name,Year,Global_Sales
 15606,Tsuki no Hikari: Shizumeru Kane no Satsujin,2002,0.02
 15607,Aqua Panic!,2009,0.02
 15608,James Bond 007: Blood Stone,2010,0.02
-15609,Writing and Speaking Beautiful Japanese DS,00,0.02
+15609,Writing and Speaking Beautiful Japanese DS ,2009,0.02
 15610,Sega Ages 2500 Series Vol. 26: Dynamite Deka,2006,0.02
 15611,Kong: The Animated Series,2002,0.02
 15612,Heavy Fire: Afghanistan,2011,0.02
@@ -15651,7 +15651,7 @@ Rank,Name,Year,Global_Sales
 15652,Canada Hunt,2010,0.02
 15653,Space Channel 5: Ulala's Cosmic Attack,2002,0.02
 15654,Airline Tycoon,2000,0.02
-15655,Virtua Quest,00,0.02
+15655,Virtua Quest ,2009,0.02
 15656,Disney Sports Basketball,2002,0.02
 15657,Bejeweled Blitz,2010,0.02
 15658,Ozzy & Drix,2003,0.02
@@ -15695,7 +15695,7 @@ Rank,Name,Year,Global_Sales
 15697,Mechanic Master 2,2010,0.02
 15698,Dungeons - The Dark Lord,2011,0.02
 15699,Clover no Kuni no Alice: Wonderful Wonder World,2011,0.02
-15700,Shonen Jump's Yu-Gi-Oh! GX Card Almanac,00,0.02
+15700,Shonen Jump's Yu-Gi-Oh! GX Card Almanac ,2009,0.02
 15701,Hisshou Pachinko*Pachi-Slot Kouryaku Series Vol. 9: CR Fever Captain Harlock,2007,0.02
 15702,Lost: Via Domus,2008,0.02
 15703,Monster High 13 Wishes,2013,0.02
@@ -15715,7 +15715,7 @@ Rank,Name,Year,Global_Sales
 15717,This War of Mine,2016,0.02
 15718,Franklin: A Birthday Surprise,2006,0.02
 15719,Nil Admirari no Tenbin: Teito Genwaku Toukidan,2016,0.02
-15720,Without Warning,00,0.02
+15720,Without Warning ,2009,0.02
 15721,Marvel Superheroes 3D: Grandmaster's Challenge,2010,0.02
 15722,Suzunone Seven: Rebirth Knot,2010,0.02
 15723,Arslan: The Warriors of Legend,2016,0.02
@@ -15737,7 +15737,7 @@ Rank,Name,Year,Global_Sales
 15739,Memories Off: Yubikiri no Kioku,2010,0.02
 15740,Otometeki Koi Kakumei * Love Revo!! DS,2008,0.02
 15741,Clue / Mouse Trap / Perfection / Aggravation,2006,0.02
-15742,Football Manager 2007,00,0.02
+15742,Football Manager 2007 ,2009,0.02
 15743,TV Anime Idolm@ster: Cinderella Girls G4U! Pack Vol.4,2015,0.02
 15744,Elven Legacy Collection,2010,0.02
 15745,My Ballet Studio,2009,0.02
@@ -15809,7 +15809,7 @@ Rank,Name,Year,Global_Sales
 15811,Zombie Hunters 2,2006,0.02
 15812,WRC 5: FIA World Rally Championship,2015,0.02
 15813,Custom Drive,2012,0.02
-15814,Ferrari: The Race Experience,00,0.02
+15814,Ferrari: The Race Experience ,2009,0.02
 15815,Tsuyo Kiss 2 Gakki: Swift Love,2009,0.02
 15816,Achtung Panzer: Kharkov 1943,2010,0.02
 15817,Konductra,2006,0.02
@@ -15863,7 +15863,7 @@ Rank,Name,Year,Global_Sales
 15865,Taishou Moebius Line Vitable,2016,0.02
 15866,Gaist Crusher God,2014,0.02
 15867,Shinkyoku Soukai Polyphonica,2007,0.02
-15868,PDC World Championship Darts 2008,00,0.02
+15868,PDC World Championship Darts 2008 ,2009,0.02
 15869,San Goku Shi DS 2,2007,0.02
 15870,Strongest Tokyo University Shogi DS,1985,0.02
 15871,Shin Sangoku Musou Online: Souten Ranbu,2010,0.02
@@ -15874,9 +15874,9 @@ Rank,Name,Year,Global_Sales
 15876,Thunder Force VI,2008,0.02
 15877,Majesty 2: The Fantasy Kingdom Sim,2009,0.02
 15878,Turbo: Super Stunt Squad,2013,0.02
-15879,Dinotopia: The Sunstone Odyssey,00,0.02
+15879,Dinotopia: The Sunstone Odyssey ,2009,0.02
 15880,Daito Giken Koushiki Pachi-Slot Simulator: Ossu! Misao + Maguro Densetsu Portable,2010,0.02
-15881,Dance! It's Your Stage,00,0.02
+15881,Dance! It's Your Stage ,2009,0.02
 15882,PachiPara 3D,2011,0.02
 15883,Command & Conquer Collection,2003,0.02
 15884,Kiss Bell,2014,0.02
@@ -15898,7 +15898,7 @@ Rank,Name,Year,Global_Sales
 15900,The Sims 4: Luxury Party Stuff,2015,0.02
 15901,Nogizaka Haruka no Himitsu Cosplay Hajime Mashita,2008,0.02
 15902,Triggerheart Exelica,2007,0.02
-15903,Jet Impulse,00,0.02
+15903,Jet Impulse ,2009,0.02
 15904,Games Explosion!,2006,0.02
 15905,Tennis no Oji-Sama: Card Hunter,2007,0.02
 15906,Portable Island: Tenohira Resort,2006,0.02
@@ -15913,7 +15913,7 @@ Rank,Name,Year,Global_Sales
 15915,Evil Genius,2004,0.02
 15916,Dragon Tales: Dragon Adventures,2003,0.02
 15917,Moe Moe 2-ji Taisen (Ryoku) * Deluxe,2008,0.02
-15918,Dream Dancer,00,0.02
+15918,Dream Dancer ,2009,0.02
 15919,Powerbike,2009,0.02
 15920,Violet no Atelier: Gramnad no Renkinjutsushi 2 - Gunjou no Omoide,2011,0.02
 15921,Magic Encyclopedia: Moonlight,2010,0.02
@@ -16055,15 +16055,15 @@ Rank,Name,Year,Global_Sales
 16057,Samurai Shodown Anthology (JP sales),2008,0.01
 16058,Winning Post 7 Maximum 2008,2008,0.01
 16059,Sangoku Koi Senki: Otome no Heihou!,2011,0.01
-16060,PDC World Championship Darts 2008,00,0.01
-16061,WRC: FIA World Rally Championship,00,0.01
+16060,PDC World Championship Darts 2008 ,2009,0.01
+16061,WRC: FIA World Rally Championship ,2009,0.01
 16062,Alfa Romeo Racing Italiano,2005,0.01
 16063,Pachi-Slot Teiou: Golgo 13 Las Vegas (JP sales but wrong system),2002,0.01
 16064,Digger Simulator,2011,0.01
 16065,Turbo: Super Stunt Squad,2013,0.01
 16066,Super Robot Taisen XO,2006,0.01
 16067,Kaitou Joker: Toki o Koeru Kaitou to Ushinawareta Houseki,2015,0.01
-16068,Aquaman: Battle for Atlantis,00,0.01
+16068,Aquaman: Battle for Atlantis ,2009,0.01
 16069,Pachitte Chonmage Tatsujin 16: Pachinko Hissatsu Shigotojin III,2010,0.01
 16070,IL-2 Sturmovik,2001,0.01
 16071,Mortal Kombat: Tournament Edition,2003,0.01
@@ -16189,14 +16189,14 @@ Rank,Name,Year,Global_Sales
 16191,Toro to Morimori,2009,0.01
 16192,Sonic & All-Stars Racing Transformed,2013,0.01
 16193,Satisfashion,2010,0.01
-16194,Homeworld Remastered Collection,00,0.01
+16194,Homeworld Remastered Collection ,2009,0.01
 16195,Metal Slug Anthology,2007,0.01
 16196,K-1 Grand Prix,1999,0.01
-16197,Shorts,00,0.01
+16197,Shorts ,2009,0.01
 16198,Legoland,1999,0.01
 16199,Rave Master: Special Attack Force!,2002,0.01
 16200,Simple 2000 Series Vol. 120: The Saigo no Nippon Tsuwamono,2007,0.01
-16201,AKB1/48: Idol to Guam de Koishitara...,00,0.01
+16201,AKB1/48: Idol to Guam de Koishitara... ,2009,0.01
 16202,Casper,2002,0.01
 16203,Hyakka Yakou,2015,0.01
 16204,Adventure Time: The Secret of the Nameless,2014,0.01
@@ -16227,7 +16227,7 @@ Rank,Name,Year,Global_Sales
 16229,Victory Spike,1996,0.01
 16230,Sengoku Basara 2 Heroes,2007,0.01
 16231,Double Sequence: The Q-Virus Invasion,2008,0.01
-16232,Brothers in Arms: Furious 4,00,0.01
+16232,Brothers in Arms: Furious 4 ,2009,0.01
 16233,Hi Hi Puffy AmiYumi: The Genie & the Amp,2006,0.01
 16234,Densetsu no Yuusha no Densetsu: Legendary Saga,2010,0.01
 16235,Zero no Tsukaima: Maigo no Period to Ikusen no Symphony,2008,0.01
@@ -16244,7 +16244,7 @@ Rank,Name,Year,Global_Sales
 16246,Mahjong Taikai IV,2006,0.01
 16247,Valentino Rossi: The Game,2016,0.01
 16248,FlatOut: Ultimate Carnage,2008,0.01
-16249,Agarest Senki: Re-appearance,00,0.01
+16249,Agarest Senki: Re-appearance ,2009,0.01
 16250,Ultraman Fighting Evolution 0,2006,0.01
 16251,Gokuhou!! Mecha Mote Iinchou: Girls Motekawa Box,2009,0.01
 16252,Aquaman: Battle for Atlantis,2003,0.01
@@ -16305,7 +16305,7 @@ Rank,Name,Year,Global_Sales
 16307,Moto Racer Advance,2002,0.01
 16308,Duel Masters: Shadow of the Code,2004,0.01
 16309,Full Auto 2: Battlelines,2007,0.01
-16310,Freaky Flyers,00,0.01
+16310,Freaky Flyers ,2009,0.01
 16311,Army Men: Air Combat - The Elite Missions,2003,0.01
 16312,Rally Championship,2003,0.01
 16313,Happy Dance Collection,2008,0.01
@@ -16325,7 +16325,7 @@ Rank,Name,Year,Global_Sales
 16327,Professional Farmer 2016,2015,0.01
 16328,RalliSport Challenge(JP sales),2002,0.01
 16329,Dragon Quest X: All in One Package,2015,0.01
-16330,Inversion,00,0.01
+16330,Inversion ,2009,0.01
 16331,Wedding Planner: Dream Weddings Guaranteed,2010,0.01
 16332,Element Hunter,2009,0.01
 16333,Ultraman Fighting Evolution 3,2004,0.01
@@ -16364,7 +16364,7 @@ Rank,Name,Year,Global_Sales
 16366,Fallout Anthology,2015,0.01
 16367,Tropico 3: Gold Edition,2010,0.01
 16368,Survivor,2010,0.01
-16369,Hakuouki: Shinsengumi Kitan,00,0.01
+16369,Hakuouki: Shinsengumi Kitan ,2009,0.01
 16370,Dance with Devils,2016,0.01
 16371,Wand of Fortune,2009,0.01
 16372,Arabians Lost: The Engagement on Desert,2012,0.01
@@ -16425,7 +16425,7 @@ Rank,Name,Year,Global_Sales
 16427,Real Crimes: The Unicorn Killer,2011,0.01
 16428,Akatsuki no Goei Trinity,2012,0.01
 16429,ESPN NBA 2Night 2002,2002,0.01
-16430,Virtua Quest,00,0.01
+16430,Virtua Quest ,2009,0.01
 16431,Aladdin Magic Racer,2011,0.01
 16432,Goat Simulator,2016,0.01
 16433,Golden Time: Vivid Memories,2014,0.01
@@ -16491,7 +16491,7 @@ Rank,Name,Year,Global_Sales
 16493,SBK Superbike World Championship,2008,0.01
 16494,Summer Athletics,2008,0.01
 16495,Daito Giken Koushiki Pachi-Slot Simulator: 24 - Twenty-Four,2008,0.01
-16496,The Smurfs,00,0.01
+16496,The Smurfs ,2009,0.01
 16497,Legends of Oz: Dorothy's Return,2014,0.01
 16498,Unending Bloody Call,2012,0.01
 16499,Shutsugeki! Otometachi no Senjou 2: Ikusabana no Kizuna,2011,0.01

@@ -1,6 +1,3 @@
-//
-// Created by Steven on 11/7/2019.
-//
 #include "Queue.h"
 Queue::Queue() {
     head = nullptr;
@@ -9,27 +6,24 @@ Queue::Queue() {
 
 void Queue::enqueue_tail(const Data &insert) {
     Node* newNode = new Node(insert);
-    if (head == nullptr){
+    if (head == nullptr){ //If queue is empty
         head= newNode ;
         tail = newNode;
     }
-    else{
+    else{ //Else puts newNode to tail
        tail->next=newNode;
        tail=newNode;
     }
 }
 
 bool Queue::dequeue_head() {
-
-    if(head->next == tail){
+    if(head->next == tail){ //If queue is empty
         return false;
     }
-    else{
+    else{ //Else dequeue element
         Node* toDelete = head;
         head = head->next;
         delete(toDelete);
         return true;
     }
 }
-
-

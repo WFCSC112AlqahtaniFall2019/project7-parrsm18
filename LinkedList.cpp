@@ -41,9 +41,7 @@ void LinkedList::print(ostream &os) {
     Node *curr = head;
     while (curr != nullptr) {
         Data temp = curr->data;
-       // cout<<temp;
         os << temp ;
-
         curr = curr->next; // go to next node in list
     }
 }
@@ -58,12 +56,9 @@ void LinkedList::pop() {
         delete curr;
     }
 }
-/*LinkedList::~LinkedList() {
-    // keep popping until empty list
+LinkedList::~LinkedList() {
+    // keep popping until list is empty
     while (head != nullptr) {
         pop();
     }
-}*/
-
-
-
+}

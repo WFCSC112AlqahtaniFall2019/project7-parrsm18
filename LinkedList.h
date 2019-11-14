@@ -6,7 +6,7 @@
 
 #ifndef LINKEDLIST_H
 #define LINKEDLIST_H
-#include "Data.h"//You need to create this
+#include "Data.h"
 #include <ostream>
 
 class Node {
@@ -14,9 +14,8 @@ public:
     Data data; // object at node
     Node *next; // pointer to next node
     Node(){
-        next= nullptr;
+        next = nullptr;
     }
-  //  ~Node(){if(next!=nullptr)delete next;}
     Node(Data insert){
         data = insert;
     }
@@ -31,7 +30,7 @@ public:
     const LinkedList& operator=(LinkedList rhs);
     void print(ostream &os);
     void pop();
-   // ~LinkedList();
+    ~LinkedList();
 };
 
 #endif //LINKEDLIST_H
