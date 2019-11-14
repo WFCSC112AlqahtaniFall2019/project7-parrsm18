@@ -1,0 +1,5 @@
+(Note about dataset: Sales are given in millions) My dataset consists of about 17000 different videogames with each datapoint containing the name, year of release, rank in terms of sales, and number of global sales.
+The sorting algorithm ranks the games by year of release and puts them in order.
+I chose this dataset because I've always loved playing video games and they have had a substantial impact on my life. 
+In addition, I thought it would be cool to see which video games have had the greatest success and observe some of the trends in video game sales over time.
+Video games are also relevant to the field of computer science!
